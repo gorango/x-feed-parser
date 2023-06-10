@@ -1,0 +1,6 @@
+{
+  "name": "xfp",
+  "version": "0.0.0",
+  "description": "Universal feed parser - RSS1/2, Atom, JSON",
+  "license": "ISC"
+}
