@@ -23,7 +23,7 @@
 		"index.js"
 	],
 	"scripts": {
-		"build": "rimraf --glob \"{index,test}.d.ts\" && tsc",
+		"build": "rimraf --glob \"{index}.d.ts\" && tsc",
 		"test": "node test.js",
 		"coverage": "npx c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node test.js"
 	},
@@ -33,6 +33,7 @@
 	},
 	"devDependencies": {
 		"@antfu/eslint-config": "^0.38.4",
+		"@types/entities": "^2.0.0",
 		"@types/tape": "^5.6.0",
 		"@types/unist": "^2.0.6",
 		"@types/xml2js": "^0.4.11",
