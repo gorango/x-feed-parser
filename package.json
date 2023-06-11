@@ -1,6 +1,44 @@
 {
-  "name": "xfp",
-  "version": "0.0.0",
-  "description": "Universal feed parser - RSS1/2, Atom, JSON",
-  "license": "ISC"
+	"name": "xfp",
+	"type": "module",
+	"version": "0.0.0",
+	"description": "Universal feed parser - RSS1/2, Atom, JSON",
+	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
+	"license": "MIT",
+	"repository": "gorango/xpf",
+	"bugs": "https://github.com/gorango/xpf/issues",
+	"keywords": [
+		"nodejs",
+		"rss",
+		"json",
+		"xml",
+		"feed",
+		"parser"
+	],
+	"sideEffects": false,
+	"main": "index.js",
+	"types": "index.d.ts",
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
+	"scripts": {
+		"build": "rimraf --glob \"{index,test}.d.ts\" && tsc",
+		"test": "node test.js",
+		"coverage": "npx c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node test.js"
+	},
+	"dependencies": {
+		"entities": "^4.5.0",
+		"xml2js": "^0.6.0"
+	},
+	"devDependencies": {
+		"@antfu/eslint-config": "^0.38.4",
+		"@types/tape": "^5.6.0",
+		"@types/unist": "^2.0.6",
+		"@types/xml2js": "^0.4.11",
+		"eslint": "^8.38.0",
+		"rimraf": "^5.0.1",
+		"tape": "^5.6.3",
+		"typescript": "^5.1.3"
+	}
 }
