@@ -1,58 +1,37 @@
 import type { Options } from 'xml2js'
 
-type CustomFieldItem<U> = keyof U | (string | { keepArray: boolean })[]
-
-export interface CustomFields<T, U> {
-	feed?: Array<keyof T>
-	item?: CustomFieldItem<U>[] | CustomFieldItem<U>[][]
-}
-
-export interface ParserOptions<T, U> {
-	xml2js?: Options
-	defaultRSS?: number
-	customFields?: CustomFields<T, U>
-}
-
-export interface Enclosure {
-	url: string
-	length?: number
-	type?: string
-}
-
 export interface Item {
-	link?: string
 	guid?: string
+	url?: string
+	imageUrl?: string
 	title?: string
-	pubDate?: string
-	creator?: string
+	date?: string
 	summary?: string
+	creator?: string
 	content?: string
-	isoDate?: string
+	snippet?: string
 	categories?: string[]
-	contentSnippet?: string
-	enclosure?: Enclosure
 }
 
-export interface PaginationLinks {
-	self?: string
-	first?: string
-	next?: string
-	last?: string
-	prev?: string
+export interface FeedImages {
+	'image': any
+	'enclosure': any
+	'thumbnail': any
+	'media:thumbnail': any
+	'media:group': any
+	'media:content': any
+	'itunes:image': any
+	'content:encoded': any
 }
 
 export interface Feed<U> {
-	image?: {
-		link?: string
-		url: string
-		title?: string
-	},
-	paginationLinks?: PaginationLinks
-	link?: string
+	type?: 'rss' | 'atom' | 'json' | string
 	title?: string
-	items: (U & Item)[]
-	feedUrl?: string
 	description?: string
+	imageUrl?: string,
+	siteUrl?: string
+	feedUrl?: string
+	items: (U & Item)[]
 	itunes?: {
 		[key: string]: any
 		image?: string

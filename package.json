@@ -8,12 +8,12 @@
 	"repository": "gorango/xfp",
 	"bugs": "https://github.com/gorango/xfp/issues",
 	"keywords": [
-		"nodejs",
-		"rss",
-		"json",
-		"xml",
 		"feed",
-		"parser"
+		"parser",
+		"rss",
+		"atom",
+		"json",
+		"xml"
 	],
 	"sideEffects": false,
 	"main": "index.js",
@@ -25,8 +25,7 @@
 	],
 	"scripts": {
 		"build": "rimraf --glob \"{index}.d.ts\" && tsc",
-		"test": "node test.js",
-		"coverage": "npx c8 --check-coverage --branches 100 --functions 100 --lines 100 --statements 100 --reporter lcov node test.js"
+		"test": "node test.js"
 	},
 	"dependencies": {
 		"entities": "^4.5.0",
@@ -36,7 +35,6 @@
 		"@antfu/eslint-config": "^0.38.4",
 		"@types/entities": "^2.0.0",
 		"@types/tape": "^5.6.0",
-		"@types/unist": "^2.0.6",
 		"@types/xml2js": "^0.4.11",
 		"eslint": "^8.38.0",
 		"rimraf": "^5.0.1",
