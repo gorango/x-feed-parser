@@ -1,12 +1,12 @@
 {
 	"name": "xfp",
 	"type": "module",
-	"version": "0.0.0",
+	"version": "0.1.2",
 	"description": "Universal feed parser - RSS1/2, Atom, JSON",
 	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
 	"license": "MIT",
-	"repository": "gorango/xpf",
-	"bugs": "https://github.com/gorango/xpf/issues",
+	"repository": "gorango/xfp",
+	"bugs": "https://github.com/gorango/xfp/issues",
 	"keywords": [
 		"nodejs",
 		"rss",
@@ -20,7 +20,8 @@
 	"types": "index.d.ts",
 	"files": [
 		"index.d.ts",
-		"index.js"
+		"index.js",
+		"lib"
 	],
 	"scripts": {
 		"build": "rimraf --glob \"{index}.d.ts\" && tsc",
