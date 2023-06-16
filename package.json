@@ -17,9 +17,9 @@
 	],
 	"sideEffects": false,
 	"main": "index.js",
-	"types": "index.d.ts",
+	"types": "types.d.ts",
 	"files": [
-		"index.d.ts",
+		"types.d.ts",
 		"index.js",
 		"lib"
 	],
