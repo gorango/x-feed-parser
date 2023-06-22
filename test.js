@@ -1,11 +1,11 @@
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
-import test from 'tape'
+import { test } from 'vitest'
 import { parse } from './index.js'
 
 const root = join('./fixtures')
 
-test('Fixtures', async (t) => {
+test('Fixtures', async ({ expect }) => {
 	await Promise.all(readdirSync(root).map(async (fixture) => {
 		const inputPath = join(root, fixture, readdirSync(join(root, fixture))[0])
 		const outputPath = join(root, fixture, 'output.json')
@@ -25,10 +25,7 @@ test('Fixtures', async (t) => {
 
 		// t.deepLooseEqual(actual, expected, `should work on ${fixture}`)
 	}))
-
-	t.end()
 })
 
-test('throws useful errors', (t) => {
-	t.end()
+test('throws useful errors', ({ expect }) => {
 })
