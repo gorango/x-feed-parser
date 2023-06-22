@@ -1,7 +1,7 @@
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { test } from 'vitest'
-import { parse } from './index.js'
+import { parse } from '../index.js'
 
 const root = join('./fixtures')
 
@@ -27,5 +27,6 @@ test('Fixtures', async ({ expect }) => {
 	}))
 })
 
-test('throws useful errors', ({ expect }) => {
+test.skip('throws useful errors', ({ expect }) => {
+	expect.fail()
 })
