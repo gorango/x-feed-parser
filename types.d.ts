@@ -17,9 +17,10 @@ export interface Item {
 	keywords?: string[]
 	commentsUrl?: string
 	imageUrl?: string
-	media?: Enclosure[]
 	createdAt?: string
 	updatedAt?: string
+	media?: Enclosure[]
+	meta?: Meta
 }
 
 interface Meta {
@@ -37,5 +38,4 @@ export interface Feed<U> {
 	etag?: string
 	updatedAt?: string
 	items: (U & Item)[]
-	meta?: Meta
 }
