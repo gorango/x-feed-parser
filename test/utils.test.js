@@ -1,11 +1,7 @@
-import { parseStringPromise as parseXml } from 'xml2js'
 import { test } from 'vitest'
-import { copyFromXML, getImageUrl } from '../lib/utils'
-// import { copyFromXML, getContent, getImageUrl, getLink } from '../lib/utils.js'
+import { copyFromXml, getImageUrl, parseXml } from '../lib/utils'
 
-// console.log(copyFromXML, getContent, getImageUrl, getLink)
-
-test('copyFromXML', async ({ expect }) => {
+test('copyFromXml', async ({ expect }) => {
 	const xml = await parseXml(`
         <author>
             <name>Asim</name>
@@ -14,7 +10,7 @@ test('copyFromXML', async ({ expect }) => {
             <gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="16" height="16" src="https://img1.blogblog.com/img/b16-rounded.gif" />
         </author>
     `)
-	const obj = copyFromXML(xml.author, ['name', 'uri', 'email', ['gd:image', 'image']])
+	const obj = copyFromXml(xml.author, ['name', 'uri', 'email', ['gd:image', 'image']])
 	expect(obj.name).toBe('Asim')
 })
 

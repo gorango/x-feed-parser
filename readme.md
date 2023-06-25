@@ -21,23 +21,34 @@ const feed = parse(rawFeedString)
 
 ```ts
 interface Feed {
-	type?: 'rss' | 'atom' | 'json'
+	type?: 'rss' | 'atom' | 'json' | 'html'
+	lang?: string
 	title?: string
 	description?: string
 	feedUrl?: string
-	link?: string
-	paginationLinks?: PaginationLinks
+	siteUrl?: string
+	imageUrl?: string
+	etag?: string
+	updatedAt?: string
 	items: [{
-		guid?: string
-		link?: string
+		id?: string
+		url?: string
+		lang?: string
 		title?: string
-		snippet?: string
-		date?: string
-		creator?: string
 		summary?: string
+		author?: string
 		content?: string
-		isoDate?: string
+		snippet?: string
 		categories?: string[]
+		keywords?: string[]
+		commentsUrl?: string
+		imageUrl?: string
+		media?: Enclosure[]
+		createdAt?: string
+		updatedAt?: string
 	}]
+	meta?: {
+		[key: string]: any
+	}
 }
 ```
