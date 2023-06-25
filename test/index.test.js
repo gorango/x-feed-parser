@@ -2,13 +2,13 @@ import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { test } from 'vitest'
 import { parse } from '../index.js'
-import { buildXmlFeed } from '../lib/xml.js'
 
 const root = join('./fixtures')
 
 test('Fixtures', async ({ expect }) => {
 	await Promise.all(readdirSync(root).map(async (fixture) => {
-		const inputPath = join(root, fixture, readdirSync(join(root, fixture))[0])
+		const [fileName] = readdirSync(join(root, fixture))
+		const inputPath = join(root, fixture, fileName)
 		const outputPath = join(root, fixture, 'output.json')
 		const file = readFileSync(inputPath, 'utf-8')
 
@@ -28,13 +28,14 @@ test('Fixtures', async ({ expect }) => {
 	}))
 })
 
-test('Fixture', async ({ expect }) => {
-	// const fixture = readdirSync(root)[2]
-	const fixture = 'feedburner'
-	const inputPath = join(root, fixture, readdirSync(join(root, fixture))[0])
-	const a = readFileSync(inputPath, 'utf-8')
-	const feed = buildXmlFeed(a)
-	expect(feed)
+test('Unrecognized', async ({ expect }) => {
+	const fixture = 'unrecognized'
+	const [fileName] = readdirSync(join(root, fixture))
+	const inputPath = join(root, fixture, fileName)
+	const xml = readFileSync(inputPath, 'utf-8')
+	await parse(xml).catch((err) => {
+		expect(err.message).toBe('Feed not recognized as RSS, Atom, JSON, or HTML')
+	})
 })
 
 test.skip('throws useful errors', ({ expect }) => {
