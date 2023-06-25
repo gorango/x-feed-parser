@@ -13,14 +13,14 @@ npm install xfp
 ```js
 import { parse } from 'xfp'
 
-let rawFeedString // XML or JSON string
-const feed = parse(rawFeedString)
+let rawFeedString // XML (RSS/Atom), JSON Feed, or HTML string
+const feed = await parse(rawFeedString)
 ```
 
-### Returns
+Running the code above with a valid `rawFeedString` returns the following:
 
 ```ts
-interface Feed {
+interface Promise<Feed> {
 	type?: 'rss' | 'atom' | 'json' | 'html'
 	lang?: string
 	title?: string
@@ -40,7 +40,6 @@ interface Feed {
 		content?: string
 		snippet?: string
 		categories?: string[]
-		keywords?: string[]
 		commentsUrl?: string
 		imageUrl?: string
 		media?: Enclosure[]
@@ -48,7 +47,17 @@ interface Feed {
 		updatedAt?: string
 	}]
 	meta?: {
+		// youtube, itunes metadata
 		[key: string]: any
 	}
 }
 ```
+
+## License
+
+[MIT][license] © [Goran Spasojevic][author]
+
+<!-- Definitions -->
+
+[license]: license
+[author]: https://github.com/gorango
