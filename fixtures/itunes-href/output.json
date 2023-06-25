@@ -1,0 +1,100 @@
+{
+    "type": "rss",
+    "lang": "de-de",
+    "title": "Transfermarkt",
+    "description": "Die 10 letzten News",
+    "siteUrl": "http://www.transfermarkt.de/rss/news",
+    "imageUrl": "http://www.transfermarkt.de/images/logo.png",
+    "items": [
+        {
+            "id": "http://www.transfermarkt.de/eberl-lobt-bvb-fur-pulisic-deal-ndash-hudson-odoi-kostet-bdquo-fast-so-viel-wie-mein-kader-ldquo-/view/news/326649?rss",
+            "url": "http://www.transfermarkt.de/eberl-lobt-bvb-fur-pulisic-deal-ndash-hudson-odoi-kostet-bdquo-fast-so-viel-wie-mein-kader-ldquo-/view/news/326649?rss",
+            "title": "Manager bewertet Transfers | Eberl lobt BVB für Pulisic-Deal – Hudson-Odoi kostet „fast so viel wie mein Kader“",
+            "author": "Transfermarkt",
+            "content": "Max Eberl (Foto) hat dem BVB zum Transfererlös von Christian Pulisic (20) gratuliert. Gleichzeitig prangerte Gladbachs Sportdirektor allerdings auch derart hohe Ablösesummen an....",
+            "snippet": "Max Eberl (Foto) hat dem BVB zum Transfererlös von Christian Pulisic (20) gratuliert. Gleichzeitig prangerte Gladbachs Sportdirektor allerdings auch derart hohe Ablösesummen an....",
+            "createdAt": "2019-01-07T16:19:19.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/magdeburg-verleiht-talent-harant-ndash-funfter-fcm-spieler-in-halberstadt/view/news/326660?rss",
+            "url": "http://www.transfermarkt.de/magdeburg-verleiht-talent-harant-ndash-funfter-fcm-spieler-in-halberstadt/view/news/326660?rss",
+            "title": "Im zweiten Anlauf | Magdeburg verleiht Talent Harant – Fünfter FCM-Spieler in Halberstadt",
+            "author": "Transfermarkt",
+            "content": "Der 1.FC Magdeburg treibt seine Umstrukturierung des Kaders im Winter-Transferfenster weiter voran. Nachdem Jan Kirchhoff und Timo Perthel den Kader von Trainer Michael Oenning verstärkten und...",
+            "snippet": "Der 1.FC Magdeburg treibt seine Umstrukturierung des Kaders im Winter-Transferfenster weiter voran. Nachdem Jan Kirchhoff und Timo Perthel den Kader von Trainer Michael Oenning verstärkten und...",
+            "createdAt": "2019-01-07T15:55:00.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/iborra-zuruck-nach-spanien-villarreal-plant-langfristig-mit-leicesters-reservisten/view/news/326658?rss",
+            "url": "http://www.transfermarkt.de/iborra-zuruck-nach-spanien-villarreal-plant-langfristig-mit-leicesters-reservisten/view/news/326658?rss",
+            "title": "Transfer fix | Iborra zurück nach Spanien: Villarreal plant langfristig mit Leicesters Reservisten",
+            "author": "Transfermarkt",
+            "content": "Der FC Villarreal hat sich mit Leicester City geeinigt und die Dienste von Vicente Iborra (30, Foto) gesichert. Bei den „Foxes“ stand der Mittelfeldspieler seit 2017 unter Vertrag, kam...",
+            "snippet": "Der FC Villarreal hat sich mit Leicester City geeinigt und die Dienste von Vicente Iborra (30, Foto) gesichert. Bei den „Foxes“ stand der Mittelfeldspieler seit 2017 unter Vertrag, kam...",
+            "createdAt": "2019-01-07T15:29:39.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/bvb-interesse-an-werner-philipp-im-gegenzug-nach-leipzig-/view/news/326652?rss",
+            "url": "http://www.transfermarkt.de/bvb-interesse-an-werner-philipp-im-gegenzug-nach-leipzig-/view/news/326652?rss",
+            "title": "Jetzt bei TM.tv | BVB-Interesse an Werner: Philipp im Gegenzug nach Leipzig?",
+            "author": "Transfermarkt",
+            "content": "Tauschen Timo Werner und Maximilian Philipp die Klubs? Nach dem „Kicker“ berichtet nun auch die „Bild“ vom Interesse des BVB an Leipzigs Werner (Foto). Zudem wird berichtet,...",
+            "snippet": "Tauschen Timo Werner und Maximilian Philipp die Klubs? Nach dem „Kicker“ berichtet nun auch die „Bild“ vom Interesse des BVB an Leipzigs Werner (Foto). Zudem wird berichtet,...",
+            "createdAt": "2019-01-07T15:00:00.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/dritter-wintertransfer-dane-paulsen-soll-ingolstadt-aus-der-misere-helfen/view/news/326654?rss",
+            "url": "http://www.transfermarkt.de/dritter-wintertransfer-dane-paulsen-soll-ingolstadt-aus-der-misere-helfen/view/news/326654?rss",
+            "title": "Rechtsverteidiger | Dritter Wintertransfer: Däne Paulsen soll Ingolstadt aus der Misere helfen",
+            "author": "Transfermarkt",
+            "content": "Der FC Ingolstadt hat Björn Paulsen (Foto) als seinen dritten Neuzugang in diesem Winter präsentiert. Der strauchelnde Zweitligist stattete den dänischen Rechtsverteidiger mit einem...",
+            "snippet": "Der FC Ingolstadt hat Björn Paulsen (Foto) als seinen dritten Neuzugang in diesem Winter präsentiert. Der strauchelnde Zweitligist stattete den dänischen Rechtsverteidiger mit einem...",
+            "createdAt": "2019-01-07T14:46:15.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/baffo-darf-sich-bis-sommer-in-duisburg-beweisen-ndash-bdquo-wir-mussten-reagieren-ldquo-/view/news/326647?rss",
+            "url": "http://www.transfermarkt.de/baffo-darf-sich-bis-sommer-in-duisburg-beweisen-ndash-bdquo-wir-mussten-reagieren-ldquo-/view/news/326647?rss",
+            "title": "Vertrag mit Option | Baffo darf sich bis Sommer in Duisburg beweisen – „Wir mussten reagieren“",
+            "author": "Transfermarkt",
+            "content": "Zweitligist MSV Duisburg hat den vereinslosen Joseph Baffo (Foto) mit einem Vertrag bis Saisonende ausgestattet. Der 26-jährige Innenverteidiger war zuletzt zur Probe im Training der...",
+            "snippet": "Zweitligist MSV Duisburg hat den vereinslosen Joseph Baffo (Foto) mit einem Vertrag bis Saisonende ausgestattet. Der 26-jährige Innenverteidiger war zuletzt zur Probe im Training der...",
+            "createdAt": "2019-01-07T14:19:03.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/bericht-salzburg-fuhrung-verhinderte-wolf-wechsel-nach-leipzig-ndash-veto-von-rose/view/news/326640?rss",
+            "url": "http://www.transfermarkt.de/bericht-salzburg-fuhrung-verhinderte-wolf-wechsel-nach-leipzig-ndash-veto-von-rose/view/news/326640?rss",
+            "title": "Nach Haidara-Transfer | Bericht: Salzburg-Führung verhinderte Wolf-Wechsel nach Leipzig – Veto von Rose",
+            "author": "Transfermarkt",
+            "content": "RB Leipzig ist einem Bericht zufolge bei dem Versuch gescheitert, Hannes Wolf (Foto) vom Schwester-Klub RB Salzburg nach Sachsen zu lotsen. Das meldeten die „Salzburger Nachrichten“ mit...",
+            "snippet": "RB Leipzig ist einem Bericht zufolge bei dem Versuch gescheitert, Hannes Wolf (Foto) vom Schwester-Klub RB Salzburg nach Sachsen zu lotsen. Das meldeten die „Salzburger Nachrichten“ mit...",
+            "createdAt": "2019-01-07T13:47:00.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/regensburg-verabschiedet-bdquo-verdienten-jahn-profi-ldquo-kopp-nach-bayreuth/view/news/326639?rss",
+            "url": "http://www.transfermarkt.de/regensburg-verabschiedet-bdquo-verdienten-jahn-profi-ldquo-kopp-nach-bayreuth/view/news/326639?rss",
+            "title": "Wechsel in die Regionalliga | Regensburg verabschiedet „verdienten Jahn-Profi“ Kopp nach Bayreuth",
+            "author": "Transfermarkt",
+            "content": "Defensiv-Allrounder Sven Kopp (23, Foto) verlässt den SSV Jahn Regensburg nach viereinhalb Jahren. Der Klub verkündete am Montag, dass der „verdiente Jahn-Profi“ zur SpVgg...",
+            "snippet": "Defensiv-Allrounder Sven Kopp (23, Foto) verlässt den SSV Jahn Regensburg nach viereinhalb Jahren. Der Klub verkündete am Montag, dass der „verdiente Jahn-Profi“ zur SpVgg...",
+            "createdAt": "2019-01-07T13:15:21.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/zschiesche-ubernimmt-trainerposten-beim-bonner-sc/view/news/326633?rss",
+            "url": "http://www.transfermarkt.de/zschiesche-ubernimmt-trainerposten-beim-bonner-sc/view/news/326633?rss",
+            "title": "Regionalliga West | Zschiesche übernimmt Trainerposten beim Bonner SC",
+            "author": "Transfermarkt",
+            "content": "Markus Zschiesche (Foto) übernimmt das Traineramt beim West-Regionalligisten Bonner SC. Der 36-Jährige stand vergangene Saison für den Berliner AK 07 an der Seitenlinie und...",
+            "snippet": "Markus Zschiesche (Foto) übernimmt das Traineramt beim West-Regionalligisten Bonner SC. Der 36-Jährige stand vergangene Saison für den Berliner AK 07 an der Seitenlinie und...",
+            "createdAt": "2019-01-07T13:01:09.000Z"
+        },
+        {
+            "id": "http://www.transfermarkt.de/cagliari-erwartet-rekordablose-fur-barella-teuerster-italiener-nach-jorginho-amp-buffon-/view/news/326629?rss",
+            "url": "http://www.transfermarkt.de/cagliari-erwartet-rekordablose-fur-barella-teuerster-italiener-nach-jorginho-amp-buffon-/view/news/326629?rss",
+            "title": "Chelsea plant Angebot | Cagliari erwartet Rekordablöse für Barella: Teuerster Italiener nach Jorginho & Buffon?",
+            "author": "Transfermarkt",
+            "content": "Abseits der italienischen Top-Klubs hat sich in den vergangenen Monaten Nicolò Barella (Foto) zu einem der Shootingstars der italienischen Serie A entwickelt. Das 21-jährige...",
+            "snippet": "Abseits der italienischen Top-Klubs hat sich in den vergangenen Monaten Nicolò Barella (Foto) zu einem der Shootingstars der italienischen Serie A entwickelt. Das 21-jährige...",
+            "createdAt": "2019-01-07T12:51:00.000Z"
+        }
+    ]
+}

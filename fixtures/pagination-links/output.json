@@ -1,0 +1,26 @@
+{
+    "type": "rss",
+    "lang": "en-us",
+    "title": "New Show - With Episode Block",
+    "description": "New Show",
+    "siteUrl": "https://example.test/shows/new-show-1",
+    "imageUrl": "https://example.test/test-image.jpg",
+    "updatedAt": "2020-03-31T05:19:30.000Z",
+    "items": [
+        {
+            "id": "a6f22abe-be5c-4a37-8f4b-8be3d69b0235",
+            "url": "https://example.test/episode?id=283843",
+            "title": "The First Episode",
+            "author": "Steve Thompson",
+            "content": "The First Episode",
+            "snippet": "The First Episode",
+            "imageUrl": "https://example.test/test-image.jpg",
+            "createdAt": "2021-01-21T07:58:00.000Z",
+            "meta": {
+                "duration": "39:27",
+                "explicit": "No",
+                "subtitle": "The First Episode..."
+            }
+        }
+    ]
+}

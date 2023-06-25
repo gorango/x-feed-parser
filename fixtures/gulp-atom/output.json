@@ -1,0 +1,109 @@
+{
+    "type": "atom",
+    "title": "Release notes from gulp",
+    "feedUrl": "https://github.com/gulpjs/gulp/releases.atom",
+    "siteUrl": "https://github.com/gulpjs/gulp/releases",
+    "updatedAt": "2015-06-01T21:49:41.000Z",
+    "items": [
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.9.0",
+            "url": "/gulpjs/gulp/releases/tag/v3.9.0",
+            "title": "v3.9.0",
+            "author": "contra",
+            "content": "<p>3.9.0",
+            "snippet": "3.9.0",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2015-06-01T21:49:41.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.11",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.11",
+            "title": "v3.8.11",
+            "author": "contra",
+            "content": "<p>3.8.11",
+            "snippet": "3.8.11",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2015-02-09T20:37:28.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.10",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.10",
+            "title": "v3.8.10",
+            "author": "contra",
+            "content": "<p>3.8.10",
+            "snippet": "3.8.10",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-11-04T00:11:30.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.9",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.9",
+            "title": "v3.8.9",
+            "author": "contra",
+            "content": "<p>3.8.9",
+            "snippet": "3.8.9",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-10-22T06:55:20.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.8",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.8",
+            "title": "v3.8.8",
+            "author": "contra",
+            "content": "<p>3.8.8",
+            "snippet": "3.8.8",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-09-07T20:20:11.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.7",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.7",
+            "title": "v3.8.7",
+            "author": "contra",
+            "content": "<p>3.8.7",
+            "snippet": "3.8.7",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-08-02T04:58:19.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.6",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.6",
+            "title": "v3.8.6",
+            "author": "contra",
+            "content": "<p>3.8.6",
+            "snippet": "3.8.6",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-07-09T22:06:50.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.5",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.5",
+            "title": "v3.8.5",
+            "author": "contra",
+            "content": "<p>3.8.5",
+            "snippet": "3.8.5",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-06-27T06:53:54.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.4",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.4",
+            "title": "v3.8.4",
+            "author": "contra",
+            "content": "<p>3.8.4",
+            "snippet": "3.8.4",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-06-27T06:38:43.000Z"
+        },
+        {
+            "id": "tag:github.com,2008:Repository/11167738/v3.8.3",
+            "url": "/gulpjs/gulp/releases/tag/v3.8.3",
+            "title": "v3.8.3",
+            "author": "contra",
+            "content": "<p>3.8.3",
+            "snippet": "3.8.3",
+            "imageUrl": "https://avatars3.githubusercontent.com/u/425716?v=3&s=60",
+            "updatedAt": "2014-06-26T21:17:51.000Z"
+        }
+    ]
+}
