@@ -9,12 +9,11 @@ export interface Item {
 	url?: string
 	lang?: string
 	title?: string
-	summary?: string
 	author?: string
 	content?: string
 	snippet?: string
+	summary?: string
 	categories?: string[]
-	keywords?: string[]
 	commentsUrl?: string
 	imageUrl?: string
 	createdAt?: string
