@@ -1,0 +1,28 @@
+{
+    "type": "rss",
+    "lang": "en-gb",
+    "title": "RSS0.92 Example",
+    "description": "This is an example RSS0.91 feed",
+    "siteUrl": "http://www.oreilly.com/example/index.html",
+    "updatedAt": "2002-04-03T00:00:00.000Z",
+    "items": [
+        {
+            "url": "http://www.oreilly.com/example/001.html",
+            "title": "The First Item",
+            "content": "This is the first item.",
+            "snippet": "This is the first item.",
+            "categories": [
+                "Business/Industries/Publishing/Publishers/Nonfiction/"
+            ]
+        },
+        {
+            "url": "http://www.oreilly.com/example/002.html",
+            "title": "The Second Item",
+            "content": "This is the second item.",
+            "snippet": "This is the second item.",
+            "categories": [
+                "Business/Industries/Publishing/Publishers/Nonfiction/"
+            ]
+        }
+    ]
+}

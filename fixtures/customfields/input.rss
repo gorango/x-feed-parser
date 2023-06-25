@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>
-      <![CDATA[
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>
+			<![CDATA[
          Varthabharathi : Kanrnataka's Leading Kannada News Portal
       ]]>
-    </title>
-    <link>http://www.varthabahrati.in</link>
-    <copyright>
+		</title>
+		<link>http://www.varthabahrati.in</link>
+		<copyright>
      Copyright © 2017 Varthabharathi. All rights reserved.
-    </copyright>
-    <nested-field>
-      <nest1>foo</nest1>
-      <nest2>
-        <nest3>bar</nest3>
-      </nest2>
-    </nested-field>
-    <description>
-      <![CDATA[
+		</copyright>
+		<nested-field>
+			<nest1>foo</nest1>
+			<nest2>
+				<nest3>bar</nest3>
+			</nest2>
+		</nested-field>
+		<description>
+			<![CDATA[
          Varthabharathi - A Kannada news portal brings latest news, headlines in kannada from India, world, business, politics, sports and entertainment!
       ]]>
-    </description>
-    <language>kn</language>
-    <ttl>10</ttl><item><title>ISUZU launches the ‘mu-X’ premium full-size 7 seater SUV in Bengaluru</title><author></author><subtitle>The sixth and last Sunday of Lent and beginning of Holy Week</subtitle><link>http://www.varthabharati.in/article/english/74450</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/19/isuzu.gif?itok=AXklH9Sp"/><ul><li><span style="font-size:16px;"><span style="color:#A52A2A;">Launched with a 3.0 Litre engine in 4x2 and 4x4 variants in Automatic Transmission.</span></span></li>
+		</description>
+		<language>kn</language>
+		<ttl>10</ttl>
+		<item>
+			<title>ISUZU launches the ‘mu-X’ premium full-size 7 seater SUV in Bengaluru</title>
+			<author></author>
+			<subtitle>The sixth and last Sunday of Lent and beginning of Holy Week</subtitle>
+			<link>http://www.varthabharati.in/article/english/74450</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/19/isuzu.gif?itok=AXklH9Sp"/><ul><li><span style="font-size:16px;"><span style="color:#A52A2A;">Launched with a 3.0 Litre engine in 4x2 and 4x4 variants in Automatic Transmission.</span></span></li>
 	<li><span style="font-size:16px;"><span style="color:#A52A2A;">Offers best-in-class space and comfort with aggressive styling and safety features. </span></span></li>
 </ul>
 
@@ -53,7 +60,17 @@
 <p></p>
 
 <p><strong>The company has dedicated dealer outlets, strategically located in 28 locations across the country. For more information on the company, and its products/services, please visit - <span style="color:#B22222;">www.isuzu.in, www.isuzumux.in, www.facebook.com/Isuzumuxindia</span></strong></p>
- ]]></description><pubDate>Fri, 19 May 2017 21:05:02 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/74450</guid></item><item><title>Off beat courses for the next generation</title><author>Dr. Ananth Prabhu G</author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/73971</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/16/career-development_0.jpg?itok=IyQiaHS4"/><p>As Indians, we are slowly becoming less conservative about our career choices. While at one time every parent wanted their children to become engineers, doctors, chartered accountants or MBAs, we now have many parents encouraging their children pursue their passions.</p>
+ ]]>			</description>
+			<pubDate>Fri, 19 May 2017 21:05:02 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/74450</guid>
+		</item>
+		<item>
+			<title>Off beat courses for the next generation</title>
+			<author>Dr. Ananth Prabhu G</author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/73971</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/16/career-development_0.jpg?itok=IyQiaHS4"/><p>As Indians, we are slowly becoming less conservative about our career choices. While at one time every parent wanted their children to become engineers, doctors, chartered accountants or MBAs, we now have many parents encouraging their children pursue their passions.</p>
 
 <p>If you’re one of those adventure seeking souls who does not wish to stick to a cubicle every day from 9 to 5 then you might find the following 7 career options satisfying. </p>
 
@@ -124,7 +141,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Tue, 16 May 2017 15:35:04 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/73971</guid></item><item><title>Gulf Medical University Stakeholders Forum Discusses Strategic Plans, Future Directions</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/73711</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/14/gulf.gif?itok=L9GbjByr"/><p><strong>Ajman: </strong>The Stakeholders Forum of Gulf Medical University (GMU), Ajman, the leading private medical university in the region owned and operated by Thumbay Group UAE, met and discussed the strategic plans and future directions at the University campus on Saturday, 13th May 2017.</p>
+ ]]>			</description>
+			<pubDate>Tue, 16 May 2017 15:35:04 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/73971</guid>
+		</item>
+		<item>
+			<title>Gulf Medical University Stakeholders Forum Discusses Strategic Plans, Future Directions</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/73711</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/14/gulf.gif?itok=L9GbjByr"/><p><strong>Ajman: </strong>The Stakeholders Forum of Gulf Medical University (GMU), Ajman, the leading private medical university in the region owned and operated by Thumbay Group UAE, met and discussed the strategic plans and future directions at the University campus on Saturday, 13th May 2017.</p>
 
 <p>The meeting had representatives of internal and external stakeholders including officials from the Ministry of Health and Ministry of Higher Education, educationists, healthcare professionals, faculty members, parents and student representatives. The event was graced by the presence of Dr. Haidar Al Yousuf - Director of Health Funding, DHA.</p>
 
@@ -145,7 +172,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Sun, 14 May 2017 19:31:28 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/73711</guid></item><item><title>RAGHAVENDRA BHAT M. IS NEW CHIEF GENERAL MANAGER OF KARNATAKA BANK</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/73697</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/14/karnataka.gif?itok=-PqCvgEQ"/><p><strong>Mangaluru: </strong>Karnataka Bank, a Premier Private sector Bank of the country, has promoted its General Manager Raghavendra Bhat M. as its Chief General Manager.</p>
+ ]]>			</description>
+			<pubDate>Sun, 14 May 2017 19:31:28 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/73711</guid>
+		</item>
+		<item>
+			<title>RAGHAVENDRA BHAT M. IS NEW CHIEF GENERAL MANAGER OF KARNATAKA BANK</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/73697</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/14/karnataka.gif?itok=-PqCvgEQ"/><p><strong>Mangaluru: </strong>Karnataka Bank, a Premier Private sector Bank of the country, has promoted its General Manager Raghavendra Bhat M. as its Chief General Manager.</p>
 
 <p>Shri Raghavendra Bhat M. is a Graduate in Commerce and a Certified Associate of Indian Institute of Banking and Finance (CAIIB). He is an alumni of Milagres College Kalyanpur, Udupi. He has rich banking experience of 36 years in various cadres both at operational and administrative level.</p>
 
@@ -158,7 +195,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Sun, 14 May 2017 17:46:52 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/73697</guid></item><item><title>PU: Green Valley gets excellent result for the 9th consecutive year</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/73404</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/12/green%201.jpg?itok=Li5-YKdE"/><p><strong>Shiroor:</strong> Green Valley National School and PU College, Shiroor has produced excellent result for the 9th consecutive year in PU Board Exams with an outstanding performance.</p>
+ ]]>			</description>
+			<pubDate>Sun, 14 May 2017 17:46:52 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/73697</guid>
+		</item>
+		<item>
+			<title>PU: Green Valley gets excellent result for the 9th consecutive year</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/73404</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/12/green%201.jpg?itok=Li5-YKdE"/><p><strong>Shiroor:</strong> Green Valley National School and PU College, Shiroor has produced excellent result for the 9th consecutive year in PU Board Exams with an outstanding performance.</p>
 
 <p><span style="color:#B22222;"><strong><span style="background-color:#FFFFFF;">HIGHEST SCORES IN SCIENCE STREAM</span></strong></span></p>
 
@@ -192,7 +239,17 @@
 <p>Mohamed Abrar: Computing 93, Mohammed Hizian: Computing 99, Mohammed Nabhan: Computing 99, Nidi Ganesh Bhomkar: Computing 94, Arshad Yakub Rasheed: Computing 99, Sadaf Shaik: Hindi 92, Mohammed Raif Kashimji: Physics 92, Mathematics 92, Mohammed Nasif Bava: Biology 90, Mohammed Saalim: Physics 95, Limya Raja: Biology 94, Khadeeja Rahim: Hindi 92; Farzeen: English 91</p>
 
 <p></p>
- ]]></description><pubDate>Fri, 12 May 2017 19:40:53 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/73404</guid></item><item><title>HONOUR LABOUR: Special Event for Labours from KSCC</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/73063</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/10/DSC_0233.gif?itok=hHp9eKRR"/><p>Dubai, May 10: On the occasion of International Labour Day, Karnataka Sports and Cultural Club (KSCC), organized event for labours in AL FAHAD Labour Camp, Al Qouz in association with Community Development Authority, Government of Dubai on 5th May 2017 Friday.</p>
+ ]]>			</description>
+			<pubDate>Fri, 12 May 2017 19:40:53 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/73404</guid>
+		</item>
+		<item>
+			<title>HONOUR LABOUR: Special Event for Labours from KSCC</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/73063</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/10/DSC_0233.gif?itok=hHp9eKRR"/><p>Dubai, May 10: On the occasion of International Labour Day, Karnataka Sports and Cultural Club (KSCC), organized event for labours in AL FAHAD Labour Camp, Al Qouz in association with Community Development Authority, Government of Dubai on 5th May 2017 Friday.</p>
 
 <p>Event was inaugurated by Mr Asif, Admin and Finance Manager of Al Fahad Tiles and Marbles. Vice President of KSCC Mr. Mohammad Ismail addressed the gathering with his talks about the labours sacrifice and hard work. He also said we should celebrate this day together as we are all belongs to one community. Dr. Deepak from Prime Medical Centre was also present on this occasion.</p>
 
@@ -205,7 +262,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Wed, 10 May 2017 16:13:09 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/73063</guid></item><item><title>VATICAN CITY-STATE AMBASSADOR TO ATTEND FIRST PUBLIC FUNCTION IN BANGALORE</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/72200</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/4/new-nunc.jpg?itok=cD5nZHbf"/><p class="rtejustify"></p>
+ ]]>			</description>
+			<pubDate>Wed, 10 May 2017 16:13:09 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/73063</guid>
+		</item>
+		<item>
+			<title>VATICAN CITY-STATE AMBASSADOR TO ATTEND FIRST PUBLIC FUNCTION IN BANGALORE</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/72200</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/4/new-nunc.jpg?itok=cD5nZHbf"/><p class="rtejustify"></p>
 
 <p class="rtejustify"><strong>Bangaluru, May 4:</strong> Pope Francis’ newly appointed Vatican City-State Ambassador to India and Nepal Archbishop Giambattista Diquattro will preside over a public function of Cardinals, Bishops and priests in India.  His visit to the city is the first since his appointment on 21st January 2017. </p>
 
@@ -220,14 +287,34 @@
 <p class="rtejustify">Born in Bologna 1954, Arch. Diquattro was ordained a priest for Ragusa Diocese in 1981.  He was ‎appointed Apostolic Nuncio to Panama in April, 2005 and was ordained a bishop two months later.  He ‎was transferred to Bolivia as Apostolic Nuncio in November, 2008, where he served until he was assigned his new mission to India and Nepal.‎</p>
 
 <p></p>
- ]]></description><pubDate>Thu, 04 May 2017 16:14:22 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/72200</guid></item><item><title>Vatican Ambassador to India meets CM Siddaramaiah </title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/72028</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/3/bishop.gif?itok=KqsT3f02"/><p class="rtejustify">Bengaluru, May 3: New Vatican Ambassador to India His Excellency Most Rev. Giambattista Diquattro, along with Archbishop of Bangalore Most. Rev. Bernad Moras & Dr. Antose Antoney, National Executive Member & Finance committee Chairman - Catholic Council of India called on the Chief Minister of Karnataka at his official residence -Cauvery.</p>
+ ]]>			</description>
+			<pubDate>Thu, 04 May 2017 16:14:22 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/72200</guid>
+		</item>
+		<item>
+			<title>Vatican Ambassador to India meets CM Siddaramaiah </title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/72028</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/3/bishop.gif?itok=KqsT3f02"/><p class="rtejustify">Bengaluru, May 3: New Vatican Ambassador to India His Excellency Most Rev. Giambattista Diquattro, along with Archbishop of Bangalore Most. Rev. Bernad Moras & Dr. Antose Antoney, National Executive Member & Finance committee Chairman - Catholic Council of India called on the Chief Minister of Karnataka at his official residence -Cauvery.</p>
 
 <p class="rtejustify">During the meeting the Apostolic Nuncio to India, Giambattista Diquattro & Bangalore Archbishop discussed on various activities and programs of the Christian Community & Church in Karnataka which were acknowledged and highly appreciated by the Honourable Chief Minister. </p>
 
 <p class="rtejustify">Minister for Bengaluru Development and Town Planning, KJ George & Father Anthony Swamy, the Chancellor of Bangalore Archdiocese were also present.</p>
 
 <p></p>
- ]]></description><pubDate>Wed, 03 May 2017 11:55:23 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/72028</guid></item><item><title>Workshop on the Recent Concepts in Shoulder Management Held at Gulf Medical University</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/71945</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/2/thumbay.gif?itok=AAd2FK8D"/><p><strong>Ajman:</strong> The shoulder pain is one of the most neglected conditions among the patients. There is a great need to understand the recent concepts in managing the shoulder problems say experts.</p>
+ ]]>			</description>
+			<pubDate>Wed, 03 May 2017 11:55:23 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/72028</guid>
+		</item>
+		<item>
+			<title>Workshop on the Recent Concepts in Shoulder Management Held at Gulf Medical University</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/71945</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/05/2/thumbay.gif?itok=AAd2FK8D"/><p><strong>Ajman:</strong> The shoulder pain is one of the most neglected conditions among the patients. There is a great need to understand the recent concepts in managing the shoulder problems say experts.</p>
 
 <p>As our continuous endeavor to educate the general public and at the same time update the healthcare professionals, the recently set-up Ortho Spine center at Thumbay Hospital Dubai and the Gulf Medical University organized a two day conference and workshop on the recent Concepts in Shoulder management at its campus in Ajman. Internationally renowned Shoulder Surgeon Dr. Ashish Babhulkar from Deenanath Mangeshkar Hospital Pune India along with his team conducted the workshop on Rehabilitation of Shoulder.</p>
 
@@ -256,7 +343,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Tue, 02 May 2017 20:22:54 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/71945</guid></item><item><title>Vishwas Crystal residential apartments inaugurated</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/71581</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/29/riyaz_0.gif?itok=ZRla9zXi"/><p>Mangalore, April 28 :Vishwas Crystal, new residential apartments built by Vishwas Bawa Builders in Bolar was inaugurated on Saturday.</p>
+ ]]>			</description>
+			<pubDate>Tue, 02 May 2017 20:22:54 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/71945</guid>
+		</item>
+		<item>
+			<title>Vishwas Crystal residential apartments inaugurated</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/71581</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/29/riyaz_0.gif?itok=ZRla9zXi"/><p>Mangalore, April 28 :Vishwas Crystal, new residential apartments built by Vishwas Bawa Builders in Bolar was inaugurated on Saturday.</p>
 
 <p>Y. Javed,  Director of Yenepoya Group, Corporater Rathikala and Fr. Vincent D'Souza, principal of Rosario PU College inaugurated the new residential complex.</p>
 
@@ -267,7 +364,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Sat, 29 Apr 2017 18:22:56 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/71581</guid></item><item><title>CM SIDDARAMAIAH TO OFFICIALLY INAUGURATE ‘KARNATAKA NRI FORUM – UAE’ IN DUBAI ON 28TH APRIL</title><author>Shodhan Prasad</author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/71019</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/25/NRI.gif?itok=oObUYPZl"/><p><strong>UAE: </strong>The NRI Forum - Government of Karnataka is setting up the Karnataka NRI Forum – UAE under the dedicated leadership and guidance of Chairman Sri Siddaramaiah, Hon. Chief Minister of Karnataka and the Deputy Chairman Dr. Arathi Krishna. </p>
+ ]]>			</description>
+			<pubDate>Sat, 29 Apr 2017 18:22:56 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/71581</guid>
+		</item>
+		<item>
+			<title>CM SIDDARAMAIAH TO OFFICIALLY INAUGURATE ‘KARNATAKA NRI FORUM – UAE’ IN DUBAI ON 28TH APRIL</title>
+			<author>Shodhan Prasad</author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/71019</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/25/NRI.gif?itok=oObUYPZl"/><p><strong>UAE: </strong>The NRI Forum - Government of Karnataka is setting up the Karnataka NRI Forum – UAE under the dedicated leadership and guidance of Chairman Sri Siddaramaiah, Hon. Chief Minister of Karnataka and the Deputy Chairman Dr. Arathi Krishna. </p>
 
 <p>The proposed Karnataka NRI Forum, UAE (under the aegis of NRI Forum - Government of Karnataka) will be inaugurated and graced by Sri Siddaramaiah,  Hon. Chief Minister of Karnataka on Friday, the 28th April 2017 at 3 pm in the Auditorium of Indian Consulate, Dubai along with the delegations from the Government of Karnataka including Mr. U.T. Khader, Hon. Minister for Food Supplies, Dr. Arathi Krishna, Deputy Chairman of NRI Forum Karnataka and the Diplomats of Karnataka Government.  Consul General of India H.E. Mr. Vipul will grace the occasion as a Guest of Honour along with Padmashree Dr. B.R. Shetty who is the Honorary President of the Forum.</p>
 
@@ -335,7 +442,17 @@
 <p>Karnataka NRI Forum UAE will execute their role as per the guidance of the main body of NRI Forum Karnataka based in Bengaluru, India as briefed by the proposed President Praveen Kumar Shetty and General Secretary Prabhakar Ambalthare during their recent meet.  The proposed President Mr. Praveen Shetty also mentioned that, the Executive Board of Karnataka NRI Forum in association with special standing committees will work for the benefit of all the NRI Kannadigas based in the UAE for their socio economic development without any type of discrimination based on the demographic characteristics.</p>
 
 <p></p>
- ]]></description><pubDate>Tue, 25 Apr 2017 13:24:23 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/71019</guid></item><item><title>Take Banking to the finger tips of masses: Mahabaleshwara M.S.</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/70935</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/24/karnataka.gif?itok=Rok46WIQ"/><p>Mangaluru: “Ably supported by digital revolution and fully aided by the demonetization move, stage is all set to make every fellow Indian a Banking literate by taking banking to the finger tips of masses” said Shri Mahabaleshwara M S, Managing Director & CEO.</p>
+ ]]>			</description>
+			<pubDate>Tue, 25 Apr 2017 13:24:23 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/71019</guid>
+		</item>
+		<item>
+			<title>Take Banking to the finger tips of masses: Mahabaleshwara M.S.</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/70935</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/24/karnataka.gif?itok=Rok46WIQ"/><p>Mangaluru: “Ably supported by digital revolution and fully aided by the demonetization move, stage is all set to make every fellow Indian a Banking literate by taking banking to the finger tips of masses” said Shri Mahabaleshwara M S, Managing Director & CEO.</p>
 
 <p>He was addressing the Regional Heads of Karnataka Bank on the occasion of Regional Heads’ Quarterly review conference here, at Mangaluru, today.</p>
 
@@ -370,7 +487,17 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Mon, 24 Apr 2017 21:06:20 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/70935</guid></item><item><title>Corporation Bank bags “MSME Banking Excellence Awards- 2016”</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/70377</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/20/corp-bank.jpg?itok=UBn-8mIn"/><p><strong>Mangaluru: </strong>Corporation Bank has bagged 2 awards for the year 2016 instituted by Chamber of Indian Micro Small & Medium Enterprises [CIMSME] under <strong>Eco-Technology Savvy Bank Award – Winner [Mid-Sized Category], Best MSME Bank Award – Runner-Up (Mid-Sized Category).</strong></p>
+ ]]>			</description>
+			<pubDate>Mon, 24 Apr 2017 21:06:20 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/70935</guid>
+		</item>
+		<item>
+			<title>Corporation Bank bags “MSME Banking Excellence Awards- 2016”</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/70377</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/20/corp-bank.jpg?itok=UBn-8mIn"/><p><strong>Mangaluru: </strong>Corporation Bank has bagged 2 awards for the year 2016 instituted by Chamber of Indian Micro Small & Medium Enterprises [CIMSME] under <strong>Eco-Technology Savvy Bank Award – Winner [Mid-Sized Category], Best MSME Bank Award – Runner-Up (Mid-Sized Category).</strong></p>
 
 <p></p>
 
@@ -393,7 +520,17 @@
 <p>Corporation Bank is committed to extend its best services to Micro, Small and Medium Enterprises at a very competitive price and shall remain a hand holding partner in a journey of togetherness in realizing the entrepreneur’s dreams. </p>
 
 <p></p>
- ]]></description><pubDate>Thu, 20 Apr 2017 20:07:27 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/70377</guid></item><item><title>KARNATAKA BANK BAGS MSME BANKING EXCELLENCE AWARDS</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/70375</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/20/karnataka-bank.jpg?itok=vqJM34uA"/><p><strong>Mangaluru:</strong> Karnataka Bank has bagged MSME Banking Excellence Awards – 2016, instituted by Chamber of Indian Micro, Small & Medium Enterprises, under the category – ‘CSR Initiatives & Business Responsibility Award– Runner Up-(Emerging Category)’</p>
+ ]]>			</description>
+			<pubDate>Thu, 20 Apr 2017 20:07:27 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/70377</guid>
+		</item>
+		<item>
+			<title>KARNATAKA BANK BAGS MSME BANKING EXCELLENCE AWARDS</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/70375</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/20/karnataka-bank.jpg?itok=vqJM34uA"/><p><strong>Mangaluru:</strong> Karnataka Bank has bagged MSME Banking Excellence Awards – 2016, instituted by Chamber of Indian Micro, Small & Medium Enterprises, under the category – ‘CSR Initiatives & Business Responsibility Award– Runner Up-(Emerging Category)’</p>
 
 <p></p>
 
@@ -406,7 +543,17 @@
 <p> “This is a very special award for the Bank. Bank’s relentless efforts to distribute part of its surpluses for the common good of public, especially the marginalized sections of the society and its active participation in implementing various government schemes for the poor have been suitably rewarded in the form of this coveted award. It is also a momentous occasion for us to affirm that the Bank will continue to grow as a socially responsible business entity”, said Shri Mahabaleshwara M S, Managing Director and CEO, of the Bank.</p>
 
 <p></p>
- ]]></description><pubDate>Thu, 20 Apr 2017 19:55:28 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/70375</guid></item><item><title>EXCEL BEYOND BELIEF LIMITATIONS: Talk by Mr. Arun Sharma</title><author></author><subtitle></subtitle><link>http://www.varthabharati.in/article/english/69212</link><description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/12/MITE.jpg?itok=UrmTzlqx"/><p><strong>MANGALURU: </strong>A talk on ‘Career Possibilities & Facing Competitive Exams’ was held in Mangalore Institute of Technology and Engineering, Moodabidiri on April 11th 2017. The program focused on How to face CAT Exams and also on clearing the myths surrounding competitive exams and CAT Guru – Mr. Arun Sharma was the Chief Guest and the speaker for the program. </p>
+ ]]>			</description>
+			<pubDate>Thu, 20 Apr 2017 19:55:28 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/70375</guid>
+		</item>
+		<item>
+			<title>EXCEL BEYOND BELIEF LIMITATIONS: Talk by Mr. Arun Sharma</title>
+			<author></author>
+			<subtitle></subtitle>
+			<link>http://www.varthabharati.in/article/english/69212</link>
+			<description><![CDATA[ <img src="http://www.varthabharati.in/sites/default/files/styles/large/public/images/articles/2017/04/12/MITE.jpg?itok=UrmTzlqx"/><p><strong>MANGALURU: </strong>A talk on ‘Career Possibilities & Facing Competitive Exams’ was held in Mangalore Institute of Technology and Engineering, Moodabidiri on April 11th 2017. The program focused on How to face CAT Exams and also on clearing the myths surrounding competitive exams and CAT Guru – Mr. Arun Sharma was the Chief Guest and the speaker for the program. </p>
 
 <p>Mr. Arun Sharma, a serial Entrepreneuer and Co-Founder of <strong>MindWorkzz</strong> has a unique record of cracking the CAT an incredible 17 out of 17  times with the highest of 99.99 and lowest of 99.87 percentile. Mr. Arun Sharma is also an author of India’s highest selling books for CAT from which have been sold over 2.5 million copies.</p>
 
@@ -417,4 +564,10 @@
 <p></p>
 
 <p></p>
- ]]></description><pubDate>Wed, 12 Apr 2017 09:26:37 +0530</pubDate><dc:creator /><guid isPermaLink="true">http://www.varthabharati.in/article/english/69212</guid></item>  </channel></rss>
+ ]]>			</description>
+			<pubDate>Wed, 12 Apr 2017 09:26:37 +0530</pubDate>
+			<dc:creator />
+			<guid isPermaLink="true">http://www.varthabharati.in/article/english/69212</guid>
+		</item>
+	</channel>
+</rss>

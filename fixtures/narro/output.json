@@ -1,0 +1,24 @@
+{
+    "type": "rss",
+    "lang": "en",
+    "title": "foobar on Narro",
+    "description": "foobar uses Narro to create a podcast of articles transcribed to audio.",
+    "siteUrl": "http://on.narro.co/f",
+    "items": [
+        {
+            "id": "https://www.narro.co/article/54e703933058540300000069",
+            "url": "https://www.narro.co/article/54e703933058540300000069",
+            "title": "FAQ for Narro",
+            "author": "foobar@gmail.com",
+            "content": "Listen to your reading list anywhere. Narro will take your bookmarked articles and read them back to you as a podcast. ... http://www.narro.co/faq ...<ul></ul>",
+            "snippet": "Listen to your reading list anywhere. Narro will take your bookmarked articles and read them back to you as a podcast. ... http://www.narro.co/faq ...",
+            "imageUrl": "http://example.com/someImage.jpg",
+            "createdAt": "2015-02-20T09:51:15.000Z",
+            "meta": {
+                "duration": 74,
+                "explicit": "no",
+                "subtitle": "FAQ for Narro"
+            }
+        }
+    ]
+}

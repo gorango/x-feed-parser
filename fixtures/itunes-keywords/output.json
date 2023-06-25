@@ -1,0 +1,29 @@
+{
+    "type": "rss",
+    "lang": "en-us",
+    "title": "Taverncast - Happy Hour in Your Head - Since 2005",
+    "description": "Order a beer, pull up a seat and join your friends at Taverncast for our patented un-scripted roundtable discussions, covering a wide range of topics with a unique wit and inviting style - all blended together, it's Happy Hour in Your Head!",
+    "siteUrl": "http://www.taverncast.com/",
+    "imageUrl": "http://www.taverncast.com/itunes-logo.png",
+    "items": [
+        {
+            "id": "http://taverncast.com/shows/taverncast-62.mp3",
+            "url": "http://taverncast.com/",
+            "title": "Taverncast 62 - Temporal Anomaly",
+            "author": "Taverncast",
+            "content": "Taverncast tosses around the age old topic: time travel! Where would you go? Why would you go? Also, Bryce has customer service issues, and Mike buys a dog.",
+            "snippet": "Taverncast tosses around the age old topic: time travel! Where would you go? Why would you go? Also, Bryce has customer service issues, and Mike buys a dog.",
+            "categories": [
+                "Society & Culture"
+            ],
+            "commentsUrl": "http://www.taverncast.com",
+            "createdAt": "2015-11-07T17:00:00.000Z",
+            "meta": {
+                "duration": "1:09:50",
+                "explicit": "no",
+                "subtitle": "Taverncast tosses around the age old topic: time travel!  Where would you go?  Why would you go? Also, Bryce has customer service issues, and Mike buys a dog.",
+                "keywords": "Taverncast, beer, games, hobbies, gaming, computer, geek, party, movies, comics, pop-culture, weird, comedy, humor, funny,  talk, nerd, news, politics,  paranormal, conspiracy,  morning show, stone brewing company, time travel, back to the future, past, future, present, timeline, temporal, travel, time, dog, doodle, poodle, apple, laptop, computer, arrogant, bastard, arrogant bastard"
+            }
+        }
+    ]
+}
