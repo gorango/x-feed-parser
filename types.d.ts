@@ -1,7 +1,14 @@
-interface Enclosure {
-	url: string
-	length?: number
+export interface Feed {
 	type?: string
+	lang?: string
+	title?: string
+	description?: string
+	feedUrl?: string
+	siteUrl?: string
+	imageUrl?: string
+	etag?: string
+	updatedAt?: string
+	items: Item[]
 }
 
 export interface Item {
@@ -22,19 +29,12 @@ export interface Item {
 	meta?: Meta
 }
 
-interface Meta {
-	[key: string]: any
+interface Enclosure {
+	url: string
+	length?: number
+	type?: string
 }
 
-export interface Feed<U> {
-	type?: 'rss' | 'atom' | 'json' | 'html' | string
-	lang?: string
-	title?: string
-	description?: string
-	feedUrl?: string
-	siteUrl?: string
-	imageUrl?: string
-	etag?: string
-	updatedAt?: string
-	items: (U & Item)[]
+interface Meta {
+	[key: string]: any
 }
