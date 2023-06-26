@@ -1,5 +1,5 @@
 export interface Feed {
-	type?: string
+	type: string
 	lang?: string
 	title?: string
 	description?: string
@@ -8,7 +8,7 @@ export interface Feed {
 	imageUrl?: string
 	etag?: string
 	updatedAt?: string
-	items: Item[]
+	items?: Item[]
 }
 
 export interface Item {

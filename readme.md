@@ -1,6 +1,6 @@
 # Universal Feed Parser
 
-Parse [RSS](#parseXmlFeedstr), [Atom](#parseXmlFeedstr), [Json](#parseJsonFeedstr), and even raw [HTML](#parseHtmlFeedstr) into a common format.
+Parse [RSS](#parseXmlFeedstr), [Atom](#parseXmlFeedstr), [JSON Feed](#parseJsonFeedstr), and even raw [HTML](#parseHtmlFeedstr) into a common JSON format.
 
 ## Install
 
@@ -21,7 +21,7 @@ Running the code above with a valid `rawFeedString` returns a response with the 
 
 ```ts
 Promise<{
-	type?: 'rss' | 'atom' | 'json' | 'html'
+	type: 'rss' | 'atom' | 'json' | 'html'
 	lang?: string
 	title?: string
 	description?: string
@@ -30,7 +30,7 @@ Promise<{
 	imageUrl?: string
 	etag?: string
 	updatedAt?: string
-	items: [{
+	items?: [{
 		id?: string
 		url?: string
 		lang?: string
@@ -57,7 +57,7 @@ Promise<{
 }>
 ```
 
-See the [`test/`](test/) folder for examples.
+See the [`test/`](test/) folder for complete usage examples.
 
 ## API
 
