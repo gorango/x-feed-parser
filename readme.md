@@ -17,7 +17,7 @@ let rawFeedString // XML (RSS/Atom), JSON Feed, or HTML string
 const feed = await parse(rawFeedString)
 ```
 
-Running the code above with a valid `rawFeedString` returns a response with the following [Typescript signature][types]:
+Running the code above with a valid `rawFeedString` returns a response with the following [Typescript schema][types]:
 
 ```ts
 Promise<{
@@ -61,7 +61,7 @@ See the [`test/`](test/) folder for complete usage examples.
 
 ## API
 
-This library exports the [`parser`](#parser) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr).
+This library exports the [`parser`](#parser) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr) - all of which are also exported in the library.
 
 ### `parser(str)`
 
@@ -76,6 +76,8 @@ Handler for [RSS][rss] (v0.9 - v2.0) and [Atom][atom] feeds.
 Handler for [JSON feeds][json].
 
 ### `parseHtmlFeed(str)`
+
+**Not yet implemented!**
 
 Handler for HTML feeds extracts page and posts metadata from the document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts].
 
