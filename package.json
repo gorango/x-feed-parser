@@ -24,7 +24,6 @@
 		"lib"
 	],
 	"scripts": {
-		"build": "rimraf --glob \"{index}.d.ts\" && tsc",
 		"test": "vitest"
 	},
 	"dependencies": {
