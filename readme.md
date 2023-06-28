@@ -61,7 +61,7 @@ See the [`test/`](test/) folder for complete usage examples.
 
 ## API
 
-This library exports the [`parse`](#parse) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr).
+This library exports the [`parse`](#parse) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr) - all of which are also exported in the library.
 
 ### `parse(str)`
 
@@ -77,9 +77,7 @@ Handler for [JSON feeds][json].
 
 ### `parseHtmlFeed(str)`
 
-**Not yet implemented!**
-
-Handler for HTML feeds extracts page and posts metadata from the document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts].
+Handler for HTML feeds extracts page and posts metadata from the document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts] (NOTE: this plugin is still in pre-release and unreliable - use at own discretion).
 
 ## License
 
