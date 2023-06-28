@@ -67,17 +67,33 @@ This library exports the [`parse`](#parse) function, which is a thin wrapper for
 
 The parser simply identifies the filetype (`xml`, `json`, or `html`) and assigns the appropriate parser below.
 
+```js
+import { parse } from 'xfp'
+```
+
 ### `parseXmlFeed(str)`
 
 Handler for [RSS][rss] (v0.9 - v2.0) and [Atom][atom] feeds.
+
+```js
+import { parseXmlFeed } from 'xfp'
+```
 
 ### `parseJsonFeed(str)`
 
 Handler for [JSON feeds][json].
 
+```js
+import { parseJsonFeed } from 'xfp'
+```
+
 ### `parseHtmlFeed(str)`
 
 Handler for HTML feeds extracts page and posts metadata from the document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts] (NOTE: this plugin is still in pre-release and unreliable - use at own discretion).
+
+```js
+import { parseHtmlFeed } from 'xfp'
+```
 
 ## License
 
