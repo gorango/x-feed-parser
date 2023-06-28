@@ -2,7 +2,7 @@
 	"name": "xfp",
 	"type": "module",
 	"version": "0.2.3",
-	"description": "Universal feed parser - RSS1/2, Atom, JSON",
+	"description": "Universal feed parser - RSS1/2, Atom, JSON, HTML",
 	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
 	"license": "MIT",
 	"repository": "gorango/xfp",
@@ -10,10 +10,11 @@
 	"keywords": [
 		"feed",
 		"parser",
+		"xml",
 		"rss",
 		"atom",
 		"json",
-		"xml"
+		"html"
 	],
 	"sideEffects": false,
 	"main": "index.js",
@@ -30,6 +31,8 @@
 		"entities": "^4.5.0",
 		"fast-xml-parser": "^4.2.5",
 		"hast-util-to-text": "^3.1.2",
+		"rehype-extract-meta": "^2.0.5",
+		"rehype-extract-posts": "^0.0.1",
 		"rehype-parse": "^8.0.4",
 		"rehype-preset-minify": "^6.0.0",
 		"rehype-sanitize": "^5.0.1",
