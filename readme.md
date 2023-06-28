@@ -61,9 +61,9 @@ See the [`test/`](test/) folder for complete usage examples.
 
 ## API
 
-This library exports the [`parser`](#parser) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr) - all of which are also exported in the library.
+This library exports the [`parse`](#parse) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr).
 
-### `parser(str)`
+### `parse(str)`
 
 The parser simply identifies the filetype (`xml`, `json`, or `html`) and assigns the appropriate parser below.
 
