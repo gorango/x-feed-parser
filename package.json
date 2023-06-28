@@ -1,7 +1,7 @@
 {
 	"name": "xfp",
 	"type": "module",
-	"version": "0.2.3",
+	"version": "0.2.4",
 	"description": "Universal feed parser - RSS1/2, Atom, JSON, HTML",
 	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
 	"license": "MIT",
