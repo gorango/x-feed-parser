@@ -1,7 +1,7 @@
 {
 	"name": "xfp",
 	"type": "module",
-	"version": "0.2.6",
+	"version": "0.2.7",
 	"description": "Universal feed parser - RSS1/2, Atom, JSON, HTML",
 	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
 	"license": "MIT",
@@ -18,14 +18,15 @@
 	],
 	"sideEffects": false,
 	"main": "index.js",
-	"types": "**/*.d.ts",
+	"types": "types/index.d.ts",
 	"files": [
-		"**/*.d.ts",
 		"index.js",
-		"lib"
+		"lib",
+		"types"
 	],
 	"scripts": {
-		"test": "vitest"
+		"test": "vitest",
+		"build": "shx rm -rf types && tsc && shx cp types.d.ts types"
 	},
 	"dependencies": {
 		"entities": "^4.5.0",
@@ -43,7 +44,7 @@
 		"@antfu/eslint-config": "^0.39.6",
 		"@types/entities": "^2.0.0",
 		"eslint": "^8.43.0",
-		"rimraf": "^5.0.1",
+		"shx": "^0.3.4",
 		"typescript": "^5.1.5",
 		"vitest": "^0.32.2"
 	}
