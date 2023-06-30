@@ -22,7 +22,14 @@
             "createdAt": "2020-10-15T15:27:00.000Z",
             "meta": {
                 "duration": "45:44"
-            }
+            },
+            "media": [
+                {
+                    "length": "41604459",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1320514.m.mp3"
+                }
+            ]
         },
         {
             "id": "c1ace7ea-26e8-454e-9429-39c8f88bb1bd",
@@ -41,7 +48,14 @@
             "createdAt": "2020-10-09T09:43:00.000Z",
             "meta": {
                 "duration": "39:38"
-            }
+            },
+            "media": [
+                {
+                    "length": "30004260",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/geo/de/podcasts/endorphine-fuer-delfine/1316752.m.mp3"
+                }
+            ]
         },
         {
             "id": "daa072a4-d39b-4a7a-8d38-b37c9ff65ed5",
@@ -59,7 +73,14 @@
             "createdAt": "2020-10-01T15:29:00.000Z",
             "meta": {
                 "duration": "47:17"
-            }
+            },
+            "media": [
+                {
+                    "length": "42919004",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1311935.m.mp3"
+                }
+            ]
         },
         {
             "id": "6619f111-510f-42f2-a4c0-87578ca7e7f0",
@@ -82,7 +103,14 @@
             "createdAt": "2020-09-24T20:07:00.000Z",
             "meta": {
                 "duration": "47:58"
-            }
+            },
+            "media": [
+                {
+                    "length": "37595899",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1308049.m.mp3"
+                }
+            ]
         },
         {
             "id": "953f6455-d1a0-457a-bae7-545bd67aa0df",
@@ -101,7 +129,14 @@
             "createdAt": "2020-09-18T13:23:00.000Z",
             "meta": {
                 "duration": "46:20"
-            }
+            },
+            "media": [
+                {
+                    "length": "40892987",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1304980.m.mp3"
+                }
+            ]
         },
         {
             "id": "39587fd2-51f7-47f7-8fd3-ac55f9114df7",
@@ -121,7 +156,14 @@
             "createdAt": "2020-09-10T14:21:00.000Z",
             "meta": {
                 "duration": "45:25"
-            }
+            },
+            "media": [
+                {
+                    "length": "40647851",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1300669.m.mp3"
+                }
+            ]
         },
         {
             "id": "80649073-5e2c-49ef-8c8e-c2b5405f1750",
@@ -144,7 +186,14 @@
             "createdAt": "2020-08-20T13:33:00.000Z",
             "meta": {
                 "duration": "46:13"
-            }
+            },
+            "media": [
+                {
+                    "length": "42070071",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1289682.m.mp3"
+                }
+            ]
         },
         {
             "id": "1e82f705-76d4-455e-994e-55ca558c4849",
@@ -167,7 +216,14 @@
             "createdAt": "2020-08-13T12:00:00.000Z",
             "meta": {
                 "duration": "41:55"
-            }
+            },
+            "media": [
+                {
+                    "length": "37464058",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1286264.m.mp3"
+                }
+            ]
         },
         {
             "id": "7a3968b5-c0b6-4fe3-8005-1c82d9684555",
@@ -190,7 +246,14 @@
             "createdAt": "2020-08-06T08:00:00.000Z",
             "meta": {
                 "duration": "42:47"
-            }
+            },
+            "media": [
+                {
+                    "length": "33529151",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1282963.m.mp3"
+                }
+            ]
         },
         {
             "id": "4b82a243-2cf1-40c9-aae6-70b6b5cfe26d",
@@ -210,7 +273,14 @@
             "createdAt": "2020-07-30T12:00:00.000Z",
             "meta": {
                 "duration": "45:53"
-            }
+            },
+            "media": [
+                {
+                    "length": "39023043",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1280145.m.mp3"
+                }
+            ]
         },
         {
             "id": "82eef3f1-850b-4679-a0de-3cdbe8640c0b",
@@ -222,7 +292,14 @@
             "createdAt": "2020-07-23T11:30:00.000Z",
             "meta": {
                 "duration": "40:18"
-            }
+            },
+            "media": [
+                {
+                    "length": "30831302",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1277050.m.mp3"
+                }
+            ]
         },
         {
             "id": "e88abbed-99f4-4d91-8fd9-c7bf85ae9939",
@@ -241,7 +318,14 @@
             "createdAt": "2020-07-16T15:03:00.000Z",
             "meta": {
                 "duration": "42:22"
-            }
+            },
+            "media": [
+                {
+                    "length": "37928666",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1273864.m.mp3"
+                }
+            ]
         },
         {
             "id": "e7b8e443-b23a-4121-a94a-013a14970b81",
@@ -264,7 +348,14 @@
             "createdAt": "2020-07-09T14:19:00.000Z",
             "meta": {
                 "duration": "43:12"
-            }
+            },
+            "media": [
+                {
+                    "length": "32414980",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1270248.m.mp3"
+                }
+            ]
         },
         {
             "id": "6f7112ad-5c30-4929-b9d5-d96736951168",
@@ -287,7 +378,14 @@
             "createdAt": "2020-07-03T09:25:00.000Z",
             "meta": {
                 "duration": "43:22"
-            }
+            },
+            "media": [
+                {
+                    "length": "32418407",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1266516.m.mp3"
+                }
+            ]
         },
         {
             "id": "ca0a7abd-94df-4ea5-85d2-0971d9e4fc0e",
@@ -311,7 +409,14 @@
             "createdAt": "2020-06-25T15:36:00.000Z",
             "meta": {
                 "duration": "42:21"
-            }
+            },
+            "media": [
+                {
+                    "length": "31780558",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1263348.m.mp3"
+                }
+            ]
         },
         {
             "id": "b87a71ef-ddf4-4b97-94c8-f3bf2697d487",
@@ -331,7 +436,14 @@
             "createdAt": "2020-06-18T15:59:00.000Z",
             "meta": {
                 "duration": "42:34"
-            }
+            },
+            "media": [
+                {
+                    "length": "31621988",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1259672.m.mp3"
+                }
+            ]
         },
         {
             "id": "17dfc7ba-d29e-4d34-8fc3-31afc164ec5e",
@@ -355,7 +467,14 @@
             "createdAt": "2020-06-11T14:39:00.000Z",
             "meta": {
                 "duration": "43:26"
-            }
+            },
+            "media": [
+                {
+                    "length": "40693017",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1255871.m.mp3"
+                }
+            ]
         },
         {
             "id": "e174a234-8811-445e-9299-a3004a48baa8",
@@ -375,7 +494,14 @@
             "createdAt": "2020-06-04T11:28:00.000Z",
             "meta": {
                 "duration": "42:13"
-            }
+            },
+            "media": [
+                {
+                    "length": "38946285",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1251692.m.mp3"
+                }
+            ]
         },
         {
             "id": "de2f27ab-96c6-41ad-8ae2-e7709c4b05bb",
@@ -396,7 +522,14 @@
             "createdAt": "2020-05-28T15:10:00.000Z",
             "meta": {
                 "duration": "44:54"
-            }
+            },
+            "media": [
+                {
+                    "length": "34299287",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1248697.m.mp3"
+                }
+            ]
         },
         {
             "id": "44ef18f8-b5d9-4d43-a41b-4a7031e05ea1",
@@ -416,7 +549,14 @@
             "createdAt": "2020-05-21T11:30:00.000Z",
             "meta": {
                 "duration": "47:56"
-            }
+            },
+            "media": [
+                {
+                    "length": "35522021",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1242302.m.mp3"
+                }
+            ]
         },
         {
             "id": "c48386c6-8fca-409b-9794-8e4d205d767f",
@@ -435,7 +575,14 @@
             "createdAt": "2020-05-14T16:22:00.000Z",
             "meta": {
                 "duration": "52:39"
-            }
+            },
+            "media": [
+                {
+                    "length": "39349694",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1241144.m.mp3"
+                }
+            ]
         },
         {
             "id": "bbf8d9bd-4a1f-4e52-8825-69b3f89ca3a4",
@@ -456,7 +603,14 @@
             "createdAt": "2020-05-07T11:30:00.000Z",
             "meta": {
                 "duration": "46:13"
-            }
+            },
+            "media": [
+                {
+                    "length": "35670580",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1237162.m.mp3"
+                }
+            ]
         },
         {
             "id": "fd7b6e62-e199-4622-9989-0b50a4b7f533",
@@ -476,7 +630,14 @@
             "createdAt": "2020-04-30T11:20:00.000Z",
             "meta": {
                 "duration": "51:12"
-            }
+            },
+            "media": [
+                {
+                    "length": "39756269",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1234334.m.mp3"
+                }
+            ]
         },
         {
             "id": "0b77031d-50e5-4502-a1f5-292c4568b5d6",
@@ -497,7 +658,14 @@
             "createdAt": "2020-04-23T11:16:00.000Z",
             "meta": {
                 "duration": "42:04"
-            }
+            },
+            "media": [
+                {
+                    "length": "32051464",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1231197.m.mp3"
+                }
+            ]
         },
         {
             "id": "b93b141d-030c-4c17-be5d-90a23a837d6d",
@@ -517,7 +685,14 @@
             "createdAt": "2020-04-16T14:56:00.000Z",
             "meta": {
                 "duration": "44:33"
-            }
+            },
+            "media": [
+                {
+                    "length": "39477923",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1228036.m.mp3"
+                }
+            ]
         },
         {
             "id": "eb2cf844-fe63-4e79-b695-801bd9ed2ffd",
@@ -537,7 +712,14 @@
             "createdAt": "2020-04-09T11:15:00.000Z",
             "meta": {
                 "duration": "40:33"
-            }
+            },
+            "media": [
+                {
+                    "length": "36930105",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1225391.m.mp3"
+                }
+            ]
         },
         {
             "id": "40794a8a-f417-4794-93b1-b2728a381d74",
@@ -556,7 +738,14 @@
             "createdAt": "2020-04-02T11:30:00.000Z",
             "meta": {
                 "duration": "31:49"
-            }
+            },
+            "media": [
+                {
+                    "length": "28287095",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1221932.m.mp3"
+                }
+            ]
         },
         {
             "id": "284ea9e6-6bfe-4878-9c10-2a6107a1bf95",
@@ -577,7 +766,14 @@
             "createdAt": "2020-03-26T12:42:00.000Z",
             "meta": {
                 "duration": "41:08"
-            }
+            },
+            "media": [
+                {
+                    "length": "30555930",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1218449.m.mp3"
+                }
+            ]
         },
         {
             "id": "04425a7c-b5b4-4517-b493-11242a0d9b63",
@@ -598,7 +794,14 @@
             "createdAt": "2020-03-20T13:50:00.000Z",
             "meta": {
                 "duration": "33:39"
-            }
+            },
+            "media": [
+                {
+                    "length": "24813773",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1215727.m.mp3"
+                }
+            ]
         },
         {
             "id": "6d3df435-a2a0-4b66-a7cf-9cdb1ba90f80",
@@ -619,7 +822,14 @@
             "createdAt": "2020-03-20T13:29:00.000Z",
             "meta": {
                 "duration": "39:22"
-            }
+            },
+            "media": [
+                {
+                    "length": "30789887",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1215712.m.mp3"
+                }
+            ]
         },
         {
             "id": "9a49b350-2846-484a-9197-98bd17b50bb7",
@@ -640,7 +850,14 @@
             "createdAt": "2020-03-19T09:00:00.000Z",
             "meta": {
                 "duration": "50:56"
-            }
+            },
+            "media": [
+                {
+                    "length": "46194637",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1213965.m.mp3"
+                }
+            ]
         },
         {
             "id": "6559373a-7861-4317-b2bf-deba0761a0d8",
@@ -658,7 +875,14 @@
             "createdAt": "2020-03-16T10:28:00.000Z",
             "meta": {
                 "duration": "01:34"
-            }
+            },
+            "media": [
+                {
+                    "length": "1461353",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/dasding/podcasts/endorphine-fuer-delfine/1213219.m.mp3"
+                }
+            ]
         }
     ]
 }

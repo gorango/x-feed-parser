@@ -18,7 +18,14 @@
                 "duration": 74,
                 "explicit": "no",
                 "subtitle": "FAQ for Narro"
-            }
+            },
+            "media": [
+                {
+                    "url": "https://s3.amazonaws.com/nareta-articles/audio/54d046c293f79c0300000003/7e2d2b00-a945-441a-f49b-063786a319a4.mp3",
+                    "length": "74",
+                    "type": "audio/mpeg"
+                }
+            ]
         }
     ]
 }

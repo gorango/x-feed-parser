@@ -24,7 +24,14 @@
             "createdAt": "2020-03-10T15:05:00.000Z",
             "meta": {
                 "duration": "05:09"
-            }
+            },
+            "media": [
+                {
+                    "length": "4668354",
+                    "type": "audio/mpeg",
+                    "url": "https://avdlswr-a.akamaihd.net/swr/swr2/wissen/impuls/beitraege/2020/03/ostafrika-droht-die-naechste-heuschreckenplage.m.mp3"
+                }
+            ]
         }
     ]
 }

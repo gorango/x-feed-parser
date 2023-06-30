@@ -23,7 +23,14 @@
                 "episode": 1,
                 "episodeType": "trailer",
                 "keywords": "klaas,baywatch,berlin,late night berlin,joko und klaas,duell um die welt"
-            }
+            },
+            "media": [
+                {
+                    "url": "https://cdn.podigee.com/media/podcast_16544_baywatch_berlin_episode_1_trailer.mp3?v=1574079359&source=feed",
+                    "type": "audio/mpeg",
+                    "length": "2338520"
+                }
+            ]
         }
     ]
 }

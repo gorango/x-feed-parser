@@ -23,7 +23,14 @@
                 "explicit": "no",
                 "subtitle": "Taverncast tosses around the age old topic: time travel!  Where would you go?  Why would you go? Also, Bryce has customer service issues, and Mike buys a dog.",
                 "keywords": "Taverncast, beer, games, hobbies, gaming, computer, geek, party, movies, comics, pop-culture, weird, comedy, humor, funny,  talk, nerd, news, politics,  paranormal, conspiracy,  morning show, stone brewing company, time travel, back to the future, past, future, present, timeline, temporal, travel, time, dog, doodle, poodle, apple, laptop, computer, arrogant, bastard, arrogant bastard"
-            }
+            },
+            "media": [
+                {
+                    "url": "http://www.podtrac.com/pts/redirect.mp3?http://www.taverncast.com/shows/taverncast-62.mp3",
+                    "length": "47160424",
+                    "type": "audio/mpeg"
+                }
+            ]
         }
     ]
 }
