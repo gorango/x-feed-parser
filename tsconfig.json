@@ -10,7 +10,6 @@
 		"checkJs": true,
 		"skipLibCheck": true,
 		"declaration": true,
-		"emitDeclarationOnly": true,
-		"outFile": "index.js"
+		"emitDeclarationOnly": true
 	}
 }

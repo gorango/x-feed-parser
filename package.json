@@ -1,7 +1,7 @@
 {
 	"name": "xfp",
 	"type": "module",
-	"version": "0.2.4",
+	"version": "0.2.6",
 	"description": "Universal feed parser - RSS1/2, Atom, JSON, HTML",
 	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
 	"license": "MIT",
@@ -18,9 +18,9 @@
 	],
 	"sideEffects": false,
 	"main": "index.js",
-	"types": "types.d.ts",
+	"types": "**/*.d.ts",
 	"files": [
-		"types.d.ts",
+		"**/*.d.ts",
 		"index.js",
 		"lib"
 	],
