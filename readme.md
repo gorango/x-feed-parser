@@ -13,14 +13,14 @@ npm install xfp
 ```js
 import { parse } from 'xfp'
 
-let rawFeedString // XML (RSS/Atom), JSON Feed, or HTML string
-const feed = await parse(rawFeedString)
+let rawFeedString // XML (RSS/Atom), JSON Feed, or HTML
+const feed = parse(rawFeedString)
 ```
 
-Running the code above with a valid `rawFeedString` returns a response with the following [Typescript schema][types]:
+Running the code above with a valid `rawFeedString` returns a response with the following [schema][types]:
 
 ```ts
-Promise<{
+{
 	type: 'rss' | 'atom' | 'json' | 'html'
 	lang?: string
 	title?: string
@@ -51,10 +51,9 @@ Promise<{
 		updatedAt?: string
 	}]
 	meta?: {
-		// youtube, itunes metadata
-		[key: string]: any
+		[key: string]: any // youtube, itunes metadata
 	}
-}>
+}
 ```
 
 See the [`test/`](test/) folder for complete usage examples.

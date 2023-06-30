@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
+import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 import { test } from 'vitest'
 import { parse } from '../index.js'
@@ -6,21 +6,21 @@ import { parse } from '../index.js'
 const root = join('./fixtures')
 
 test('Fixtures', async ({ expect }) => {
-	await Promise.all(readdirSync(root).map(async (fixture) => {
-		const [fileName] = readdirSync(join(root, fixture))
+	await Promise.all((await readdir(root)).map(async (fixture) => {
+		const [fileName] = await readdir(join(root, fixture))
 		const inputPath = join(root, fixture, fileName)
 		const outputPath = join(root, fixture, 'output.json')
-		const file = readFileSync(inputPath, 'utf-8')
+		const file = await readFile(inputPath, 'utf-8')
 
-		const actual = await parse(file).catch(() => ({}))
+		const actual = parse(file)
 
 		let expected
-		writeFileSync(outputPath, `${JSON.stringify(actual, null, 4)}\n`)
+		await writeFile(outputPath, `${JSON.stringify(actual, null, 4)}\n`)
 		try {
-			expected = JSON.parse(readFileSync(outputPath, 'utf-8'))
+			expected = JSON.parse(await readFile(outputPath, 'utf-8'))
 		}
 		catch (error) {
-			writeFileSync(outputPath, `${JSON.stringify(actual, null, 2)}\n`)
+			await writeFile(outputPath, `${JSON.stringify(actual, null, 2)}\n`)
 			return
 		}
 
@@ -30,12 +30,11 @@ test('Fixtures', async ({ expect }) => {
 
 test('Unrecognized', async ({ expect }) => {
 	const fixture = 'unrecognized'
-	const [fileName] = readdirSync(join(root, fixture))
+	const [fileName] = await readdir(join(root, fixture))
 	const inputPath = join(root, fixture, fileName)
-	const xml = readFileSync(inputPath, 'utf-8')
-	await parse(xml).catch((err) => {
-		expect(err.message).toBe('Feed not recognized as RSS, Atom, JSON, or HTML')
-	})
+	const file = await readFile(inputPath, 'utf-8')
+	const feed = parse(file)
+	expect(feed).toBeNull()
 })
 
 test.skip('throws useful errors', ({ expect }) => {
