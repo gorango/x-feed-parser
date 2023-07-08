@@ -1,0 +1,186 @@
+{
+    "type": "json",
+    "title": "Lorem Curation",
+    "description": "Eiusmod in ipsum consectetur occaecat pariatur minim sit.",
+    "siteUrl": "http://curation.example.com",
+    "feedUrl": "http://curation.example.com/feed",
+    "updatedAt": "2023-07-08T00:13:56.979Z",
+    "items": [
+        {
+            "id": "http://localhost:9332/posts/07072012-cupidatat.html",
+            "url": "http://localhost:9332/posts/07072012-cupidatat.html",
+            "title": "Occaecat consequat ea voluptate ut.",
+            "content": "Eu ut nisi nisi dolor elit ex duis incididunt laboris. Commodo do elit mollit cupidatat deserunt incididunt adipisicing reprehenderit ipsum fugiat nostrud. Velit esse dolor irure excepteur occaecat aute tempor fugiat sit ipsum ullamco ullamco. Qui proident est culpa labore mollit nulla qui enim ad commodo id. Sit consequat incididunt Lorem.",
+            "snippet": "Eu ut nisi nisi dolor elit ex duis incididunt laboris. Commodo do elit mollit cupidatat deserunt incididunt adipisicing reprehenderit ipsum fugiat nostrud. Velit esse dolor irure excepteur occaecat aute tempor fugiat sit ipsum ullamco ullamco. Qui proident est culpa labore mollit nulla qui enim ad commodo id. Sit consequat incididunt Lorem.",
+            "createdAt": "2023-07-08T00:12:56.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07072012-nulla.html",
+            "url": "http://localhost:9333/posts/07072012-nulla.html",
+            "title": "Cillum labore ad Lorem ex id amet est velit commodo proident do ullamco irure.",
+            "content": "Ea ut ex nulla. Mollit laboris tempor ut ullamco eu pariatur. Pariatur velit tempor eu magna nulla. Ad ullamco culpa et. Aute id id id id elit minim aute exercitation sint deserunt esse.",
+            "snippet": "Ea ut ex nulla. Mollit laboris tempor ut ullamco eu pariatur. Pariatur velit tempor eu magna nulla. Ad ullamco culpa et. Aute id id id id elit minim aute exercitation sint deserunt esse.",
+            "createdAt": "2023-07-08T00:12:33.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07072011-veniam.html",
+            "url": "http://localhost:9333/posts/07072011-veniam.html",
+            "title": "Exercitation dolor et ad.",
+            "content": "Labore aliquip ipsum ipsum tempor sunt quis consequat ex. Adipisicing veniam nulla fugiat consequat nostrud ea. Lorem laborum fugiat amet do esse eiusmod. Excepteur incididunt esse cillum occaecat esse culpa sunt commodo sint culpa voluptate ullamco fugiat consequat. Cupidatat consectetur culpa est pariatur nulla ex adipisicing cupidatat eiusmod cillum velit dolor duis.",
+            "snippet": "Labore aliquip ipsum ipsum tempor sunt quis consequat ex. Adipisicing veniam nulla fugiat consequat nostrud ea. Lorem laborum fugiat amet do esse eiusmod. Excepteur incididunt esse cillum occaecat esse culpa sunt commodo sint culpa voluptate ullamco fugiat consequat. Cupidatat consectetur culpa est pariatur nulla ex adipisicing cupidatat eiusmod cillum velit dolor duis.",
+            "createdAt": "2023-07-08T00:11:11.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07072010-nostrud.html",
+            "url": "http://localhost:9333/posts/07072010-nostrud.html",
+            "title": "Adipisicing ipsum veniam eiusmod minim ipsum est nisi cillum anim culpa.",
+            "content": "Reprehenderit sunt duis sit elit tempor eu voluptate minim ex eu. Reprehenderit laboris ex eu amet fugiat cillum. Quis nostrud eu mollit aute ad nostrud.",
+            "snippet": "Reprehenderit sunt duis sit elit tempor eu voluptate minim ex eu. Reprehenderit laboris ex eu amet fugiat cillum. Quis nostrud eu mollit aute ad nostrud.",
+            "createdAt": "2023-07-08T00:10:54.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07072008-elit.html",
+            "url": "http://localhost:9333/posts/07072008-elit.html",
+            "title": "Magna adipisicing ullamco culpa sint eiusmod tempor.",
+            "content": "Occaecat culpa aliquip eu sunt consectetur exercitation deserunt magna reprehenderit duis est minim. Ut qui pariatur qui irure exercitation ad ullamco excepteur deserunt commodo nisi commodo irure. Pariatur adipisicing elit elit cillum est laboris elit dolore labore sint dolor adipisicing. Laboris in ullamco ullamco labore ipsum amet sunt cillum commodo enim nisi. Dolor eiusmod proident qui laboris veniam. Reprehenderit fugiat culpa et reprehenderit enim laborum.",
+            "snippet": "Occaecat culpa aliquip eu sunt consectetur exercitation deserunt magna reprehenderit duis est minim. Ut qui pariatur qui irure exercitation ad ullamco excepteur deserunt commodo nisi commodo irure. Pariatur adipisicing elit elit cillum est laboris elit dolore labore sint dolor adipisicing. Laboris in ullamco ullamco labore ipsum amet sunt cillum commodo enim nisi. Dolor eiusmod proident qui laboris veniam. Reprehenderit fugiat culpa et reprehenderit enim laborum.",
+            "createdAt": "2023-07-08T00:08:53.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07072003-laborum.html",
+            "url": "http://localhost:9332/posts/07072003-laborum.html",
+            "title": "Nulla minim et fugiat.",
+            "content": "Eiusmod ut ut id nostrud proident pariatur nisi in nisi officia aliqua dolor pariatur consequat. Amet non veniam sint occaecat sit id qui dolore. Deserunt nostrud ex et aute veniam ullamco dolor id quis non cillum dolor cupidatat elit. Minim amet ex officia esse id occaecat do ad qui qui nulla. Do laborum cillum nisi nostrud nisi veniam consequat mollit consectetur irure ullamco id ut ipsum adipisicing. Ullamco irure anim ad ut consequat esse enim non ullamco.",
+            "snippet": "Eiusmod ut ut id nostrud proident pariatur nisi in nisi officia aliqua dolor pariatur consequat. Amet non veniam sint occaecat sit id qui dolore. Deserunt nostrud ex et aute veniam ullamco dolor id quis non cillum dolor cupidatat elit. Minim amet ex officia esse id occaecat do ad qui qui nulla. Do laborum cillum nisi nostrud nisi veniam consequat mollit consectetur irure ullamco id ut ipsum adipisicing. Ullamco irure anim ad ut consequat esse enim non ullamco.",
+            "createdAt": "2023-07-08T00:03:20.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07072001-non.html",
+            "url": "http://localhost:9332/posts/07072001-non.html",
+            "title": "Duis quis do ex anim labore id anim et sunt consequat tempor anim.",
+            "content": "Adipisicing occaecat anim nostrud magna reprehenderit et est. Amet id culpa duis reprehenderit commodo nisi minim commodo esse. Non aute ipsum dolore consectetur in culpa ad Lorem elit ipsum. Qui reprehenderit deserunt irure dolor elit ex. Ad magna laborum id aliquip ex Lorem. Pariatur commodo mollit quis commodo deserunt veniam ut incididunt velit excepteur.",
+            "snippet": "Adipisicing occaecat anim nostrud magna reprehenderit et est. Amet id culpa duis reprehenderit commodo nisi minim commodo esse. Non aute ipsum dolore consectetur in culpa ad Lorem elit ipsum. Qui reprehenderit deserunt irure dolor elit ex. Ad magna laborum id aliquip ex Lorem. Pariatur commodo mollit quis commodo deserunt veniam ut incididunt velit excepteur.",
+            "createdAt": "2023-07-08T00:01:20.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07071948-labore.html",
+            "url": "http://localhost:9333/posts/07071948-labore.html",
+            "title": "Amet exercitation eu ullamco esse reprehenderit Lorem mollit minim exercitation incididunt ipsum.",
+            "content": "Cupidatat qui adipisicing nisi ea minim velit id culpa magna tempor occaecat laborum duis culpa anim. Labore cillum consequat labore adipisicing quis exercitation do eiusmod magna dolor. Sint elit elit adipisicing consectetur mollit officia.",
+            "snippet": "Cupidatat qui adipisicing nisi ea minim velit id culpa magna tempor occaecat laborum duis culpa anim. Labore cillum consequat labore adipisicing quis exercitation do eiusmod magna dolor. Sint elit elit adipisicing consectetur mollit officia.",
+            "createdAt": "2023-07-07T23:48:13.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07071948-occaecat.html",
+            "url": "http://localhost:9333/posts/07071948-occaecat.html",
+            "title": "Aute ea voluptate ea nulla Lorem id ea.",
+            "content": "Culpa eiusmod minim exercitation id culpa occaecat deserunt exercitation ut reprehenderit nisi ut occaecat dolore eiusmod. Excepteur sunt consectetur magna proident laboris enim reprehenderit in quis adipisicing ad ad amet dolore. Culpa nisi aute voluptate magna ex laboris incididunt labore mollit ea elit incididunt ipsum ea. Reprehenderit qui ipsum pariatur duis ea.",
+            "snippet": "Culpa eiusmod minim exercitation id culpa occaecat deserunt exercitation ut reprehenderit nisi ut occaecat dolore eiusmod. Excepteur sunt consectetur magna proident laboris enim reprehenderit in quis adipisicing ad ad amet dolore. Culpa nisi aute voluptate magna ex laboris incididunt labore mollit ea elit incididunt ipsum ea. Reprehenderit qui ipsum pariatur duis ea.",
+            "createdAt": "2023-07-07T23:48:11.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071948-sint.html",
+            "url": "http://localhost:9332/posts/07071948-sint.html",
+            "title": "Aute fugiat velit tempor fugiat.",
+            "content": "Velit irure aliqua do eiusmod in est occaecat enim consequat duis. Incididunt in quis id dolor pariatur tempor fugiat voluptate mollit qui sunt exercitation adipisicing enim. Aliquip minim laborum officia qui excepteur velit ullamco occaecat laborum tempor eu nulla fugiat. Sint nostrud fugiat et nisi enim. Pariatur eu do sunt.",
+            "snippet": "Velit irure aliqua do eiusmod in est occaecat enim consequat duis. Incididunt in quis id dolor pariatur tempor fugiat voluptate mollit qui sunt exercitation adipisicing enim. Aliquip minim laborum officia qui excepteur velit ullamco occaecat laborum tempor eu nulla fugiat. Sint nostrud fugiat et nisi enim. Pariatur eu do sunt.",
+            "createdAt": "2023-07-07T23:48:10.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071948-esse.html",
+            "url": "http://localhost:9332/posts/07071948-esse.html",
+            "title": "Reprehenderit sit excepteur Lorem non non esse laborum voluptate laboris qui eu.",
+            "content": "Fugiat laborum id dolore deserunt reprehenderit fugiat laborum dolore reprehenderit anim sint eu cupidatat. Laborum non ea consequat occaecat mollit non Lorem mollit non culpa est occaecat minim. Nostrud labore est est proident laboris excepteur do ad velit cillum nostrud ex. Eiusmod laborum commodo non officia fugiat. In Lorem sunt voluptate cillum quis eiusmod eiusmod dolore.",
+            "snippet": "Fugiat laborum id dolore deserunt reprehenderit fugiat laborum dolore reprehenderit anim sint eu cupidatat. Laborum non ea consequat occaecat mollit non Lorem mollit non culpa est occaecat minim. Nostrud labore est est proident laboris excepteur do ad velit cillum nostrud ex. Eiusmod laborum commodo non officia fugiat. In Lorem sunt voluptate cillum quis eiusmod eiusmod dolore.",
+            "createdAt": "2023-07-07T23:48:06.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071948-mollit.html",
+            "url": "http://localhost:9332/posts/07071948-mollit.html",
+            "title": "Duis aliqua quis consequat laborum esse ad in magna cillum mollit excepteur aute reprehenderit fugiat ipsum.",
+            "content": "Quis quis incididunt adipisicing. Ea consequat aute cillum et amet dolore sint qui aliqua. Laborum ullamco sint ipsum deserunt nisi et occaecat occaecat exercitation. Consectetur sint incididunt sunt anim laborum culpa sunt fugiat ullamco et aliquip ex.",
+            "snippet": "Quis quis incididunt adipisicing. Ea consequat aute cillum et amet dolore sint qui aliqua. Laborum ullamco sint ipsum deserunt nisi et occaecat occaecat exercitation. Consectetur sint incididunt sunt anim laborum culpa sunt fugiat ullamco et aliquip ex.",
+            "createdAt": "2023-07-07T23:48:04.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071948-aliquip.html",
+            "url": "http://localhost:9332/posts/07071948-aliquip.html",
+            "title": "Nostrud culpa aute do non elit.",
+            "content": "Duis velit et id tempor. Sint non labore velit veniam sunt laboris veniam officia sit enim aute. Qui nostrud laborum ad dolore ex consequat sint Lorem irure exercitation officia. Do esse adipisicing occaecat occaecat anim ut amet deserunt deserunt. Non adipisicing cupidatat eiusmod non qui. Anim duis consequat exercitation laborum qui ea.",
+            "snippet": "Duis velit et id tempor. Sint non labore velit veniam sunt laboris veniam officia sit enim aute. Qui nostrud laborum ad dolore ex consequat sint Lorem irure exercitation officia. Do esse adipisicing occaecat occaecat anim ut amet deserunt deserunt. Non adipisicing cupidatat eiusmod non qui. Anim duis consequat exercitation laborum qui ea.",
+            "createdAt": "2023-07-07T23:48:03.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07071948-quis.html",
+            "url": "http://localhost:9333/posts/07071948-quis.html",
+            "title": "Cillum cupidatat consequat et culpa duis reprehenderit.",
+            "content": "Veniam commodo irure Lorem incididunt quis velit laboris adipisicing duis. Laborum amet dolor mollit. Fugiat sunt irure eiusmod enim tempor ad labore sit dolore ea eiusmod.",
+            "snippet": "Veniam commodo irure Lorem incididunt quis velit laboris adipisicing duis. Laborum amet dolor mollit. Fugiat sunt irure eiusmod enim tempor ad labore sit dolore ea eiusmod.",
+            "createdAt": "2023-07-07T23:48:02.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071947-exercitation.html",
+            "url": "http://localhost:9332/posts/07071947-exercitation.html",
+            "title": "Aute eiusmod officia amet id id officia.",
+            "content": "Fugiat exercitation ullamco mollit consectetur quis id id nostrud quis pariatur id. Anim occaecat officia cillum mollit nulla sit mollit ex laborum. Labore ipsum ea irure sint magna occaecat ipsum duis sint excepteur aute consectetur. Adipisicing sint ea dolor consectetur nostrud excepteur id duis elit tempor reprehenderit. Esse aliquip anim dolor aliqua fugiat id duis dolor pariatur aliquip labore qui sit velit irure.",
+            "snippet": "Fugiat exercitation ullamco mollit consectetur quis id id nostrud quis pariatur id. Anim occaecat officia cillum mollit nulla sit mollit ex laborum. Labore ipsum ea irure sint magna occaecat ipsum duis sint excepteur aute consectetur. Adipisicing sint ea dolor consectetur nostrud excepteur id duis elit tempor reprehenderit. Esse aliquip anim dolor aliqua fugiat id duis dolor pariatur aliquip labore qui sit velit irure.",
+            "createdAt": "2023-07-07T23:47:57.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071947-magna.html",
+            "url": "http://localhost:9332/posts/07071947-magna.html",
+            "title": "Adipisicing ea duis dolore ullamco non nisi dolore qui ut elit in aliqua.",
+            "content": "Pariatur reprehenderit deserunt veniam sit excepteur in cupidatat excepteur esse non ad. Laborum in eu incididunt nulla quis officia nisi anim voluptate excepteur nulla ut eiusmod nulla. Velit sint eu dolore minim nulla.",
+            "snippet": "Pariatur reprehenderit deserunt veniam sit excepteur in cupidatat excepteur esse non ad. Laborum in eu incididunt nulla quis officia nisi anim voluptate excepteur nulla ut eiusmod nulla. Velit sint eu dolore minim nulla.",
+            "createdAt": "2023-07-07T23:47:55.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071947-dolore.html",
+            "url": "http://localhost:9332/posts/07071947-dolore.html",
+            "title": "Quis aliqua ea quis ad elit incididunt.",
+            "content": "Enim et proident voluptate cillum reprehenderit minim id id ea exercitation. Veniam irure occaecat non labore adipisicing nulla irure veniam nostrud eiusmod sit. Exercitation Lorem sint ea pariatur anim sint consequat. Et amet laboris aliqua officia reprehenderit tempor veniam. Aliquip culpa commodo ut duis id consequat. Sunt fugiat mollit excepteur culpa laborum exercitation irure culpa incididunt qui do.",
+            "snippet": "Enim et proident voluptate cillum reprehenderit minim id id ea exercitation. Veniam irure occaecat non labore adipisicing nulla irure veniam nostrud eiusmod sit. Exercitation Lorem sint ea pariatur anim sint consequat. Et amet laboris aliqua officia reprehenderit tempor veniam. Aliquip culpa commodo ut duis id consequat. Sunt fugiat mollit excepteur culpa laborum exercitation irure culpa incididunt qui do.",
+            "createdAt": "2023-07-07T23:47:54.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071947-culpa.html",
+            "url": "http://localhost:9332/posts/07071947-culpa.html",
+            "title": "Ipsum cillum sint nulla culpa.",
+            "content": "Laboris culpa irure sint quis duis sit laboris consequat. Eu mollit dolor aliqua reprehenderit exercitation deserunt consequat. Nulla et consequat nulla ex nulla ex proident magna culpa tempor duis sint duis culpa. Proident laboris qui nulla irure sit mollit laborum consequat deserunt occaecat nostrud fugiat exercitation. Nulla commodo ex minim amet et eiusmod anim id irure. Do ad minim proident do sunt labore do incididunt ut mollit.",
+            "snippet": "Laboris culpa irure sint quis duis sit laboris consequat. Eu mollit dolor aliqua reprehenderit exercitation deserunt consequat. Nulla et consequat nulla ex nulla ex proident magna culpa tempor duis sint duis culpa. Proident laboris qui nulla irure sit mollit laborum consequat deserunt occaecat nostrud fugiat exercitation. Nulla commodo ex minim amet et eiusmod anim id irure. Do ad minim proident do sunt labore do incididunt ut mollit.",
+            "createdAt": "2023-07-07T23:47:52.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07071947-enim.html",
+            "url": "http://localhost:9333/posts/07071947-enim.html",
+            "title": "Velit ut minim incididunt voluptate proident aute eu aliquip ad officia anim.",
+            "content": "Pariatur in eiusmod deserunt ea irure enim laboris ea incididunt id quis ex voluptate eu. Elit tempor exercitation quis nisi. Duis minim id consectetur enim nisi sunt ut incididunt. Laboris dolore ea qui ex qui esse dolore tempor aute enim aliquip fugiat magna anim sit. Cupidatat tempor laboris ipsum sit ex consectetur anim irure culpa eu tempor mollit esse. Dolore aliqua laborum consectetur exercitation labore ipsum consequat qui dolore in.",
+            "snippet": "Pariatur in eiusmod deserunt ea irure enim laboris ea incididunt id quis ex voluptate eu. Elit tempor exercitation quis nisi. Duis minim id consectetur enim nisi sunt ut incididunt. Laboris dolore ea qui ex qui esse dolore tempor aute enim aliquip fugiat magna anim sit. Cupidatat tempor laboris ipsum sit ex consectetur anim irure culpa eu tempor mollit esse. Dolore aliqua laborum consectetur exercitation labore ipsum consequat qui dolore in.",
+            "createdAt": "2023-07-07T23:47:51.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07071947-consectetur.html",
+            "url": "http://localhost:9333/posts/07071947-consectetur.html",
+            "title": "Elit aliqua ipsum labore ex cillum ex et incididunt cupidatat reprehenderit.",
+            "content": "Ipsum veniam culpa ea quis ipsum id exercitation exercitation eu exercitation. Lorem adipisicing nulla in mollit cillum. Ut ea do consectetur ut commodo nisi nostrud id incididunt enim exercitation sint do. Non veniam elit et elit duis Lorem laborum laborum deserunt veniam proident laborum ad. Ipsum irure dolor voluptate irure eu sunt in exercitation elit.",
+            "snippet": "Ipsum veniam culpa ea quis ipsum id exercitation exercitation eu exercitation. Lorem adipisicing nulla in mollit cillum. Ut ea do consectetur ut commodo nisi nostrud id incididunt enim exercitation sint do. Non veniam elit et elit duis Lorem laborum laborum deserunt veniam proident laborum ad. Ipsum irure dolor voluptate irure eu sunt in exercitation elit.",
+            "createdAt": "2023-07-07T23:47:49.000Z"
+        },
+        {
+            "id": "http://localhost:9332/posts/07071947-anim.html",
+            "url": "http://localhost:9332/posts/07071947-anim.html",
+            "title": "Cupidatat tempor irure sunt enim aliquip veniam exercitation culpa velit commodo aute.",
+            "content": "Aliquip officia veniam dolore sint laborum adipisicing anim eiusmod. Id exercitation velit proident exercitation laboris. Aliquip do voluptate sint exercitation dolore qui irure ut sunt do minim nostrud deserunt deserunt officia.",
+            "snippet": "Aliquip officia veniam dolore sint laborum adipisicing anim eiusmod. Id exercitation velit proident exercitation laboris. Aliquip do voluptate sint exercitation dolore qui irure ut sunt do minim nostrud deserunt deserunt officia.",
+            "createdAt": "2023-07-07T23:47:42.000Z"
+        },
+        {
+            "id": "http://localhost:9333/posts/07071947-in.html",
+            "url": "http://localhost:9333/posts/07071947-in.html",
+            "title": "In in excepteur nisi magna magna veniam ea.",
+            "content": "Consectetur consequat nulla quis amet mollit non ex reprehenderit dolor adipisicing commodo duis consectetur sint aute. Deserunt sunt do incididunt ex eiusmod voluptate minim adipisicing irure occaecat officia. Amet consequat sunt aute nisi aute dolore ipsum reprehenderit pariatur elit irure est irure. Voluptate nostrud commodo et reprehenderit deserunt ex eiusmod.",
+            "snippet": "Consectetur consequat nulla quis amet mollit non ex reprehenderit dolor adipisicing commodo duis consectetur sint aute. Deserunt sunt do incididunt ex eiusmod voluptate minim adipisicing irure occaecat officia. Amet consequat sunt aute nisi aute dolore ipsum reprehenderit pariatur elit irure est irure. Voluptate nostrud commodo et reprehenderit deserunt ex eiusmod.",
+            "createdAt": "2023-07-07T23:47:41.000Z"
+        }
+    ]
+}
