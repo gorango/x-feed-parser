@@ -103,6 +103,7 @@ import { parseHtmlFeed } from 'xfp'
 <!-- Definitions -->
 
 [types]: ./types.d.ts
+[types]: ./types.ts
 [json]: https://www.jsonfeed.org/version/1/
 [rss]: https://validator.w3.org/feed/docs/rss2.html
 [atom]: https://validator.w3.org/feed/docs/atom.html
