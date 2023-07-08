@@ -1,6 +1,11 @@
-# Universal Feed Parser
+# (X) Feed Parser
 
-Parse [RSS](#parseXmlFeedstr), [Atom](#parseXmlFeedstr), [JSON Feed](#parseJsonFeedstr), and even raw [HTML](#parseHtmlFeedstr) into a common JSON format.
+[![Types][types-badge]][types-link]
+[![Size][size-badge]][size-link]
+
+Parse [RSS](#parseXmlFeedstr), [Atom](#parseXmlFeedstr), [JSON Feed](#parseJsonFeedstr), and [HTML](#parseHtmlFeedstr) into a common JSON format. Complete with XML decoding, HTML sanitization, date standardization, media and metadata extraction.
+
+This project is based on the [rbren/rss-parser][rss-parser] upgraded to [ESM][esm] with [JSDoc][jsdoc] types and the addition of features above.
 
 ## Install
 
@@ -19,7 +24,7 @@ const feed = parse(rawFeedString)
 
 Running the code above with a valid `rawFeedString` returns a response with the following [schema][types]:
 
-```ts
+```
 {
 	type: 'rss' | 'atom' | 'json' | 'html'
 	lang?: string
@@ -60,11 +65,11 @@ See the [`test/`](test/) folder for complete usage examples.
 
 ## API
 
-This library exports the [`parse`](#parse) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr) - all of which are also exported in the library.
+This library exports the [`parse`](#parse) function, which is a thin wrapper for [`parseXmlFeed`](#parseXmlFeedstr), [`parseJsonFeed`](#parseJsonFeedstr), and [`parseHtmlFeed`](#parseHtmlFeedstr).
 
 ### `parse(str)`
 
-The parser simply identifies the filetype (`xml`, `json`, or `html`) and assigns the appropriate parser below.
+Identifies the filetype (`xml`, `json`, or `html`) and assigns the appropriate parser.
 
 ```js
 import { parse } from 'xfp'
@@ -80,7 +85,7 @@ import { parseXmlFeed } from 'xfp'
 
 ### `parseJsonFeed(str)`
 
-Handler for [JSON feeds][json].
+Handler for [JSON feeds][json] (v1).
 
 ```js
 import { parseJsonFeed } from 'xfp'
@@ -88,7 +93,7 @@ import { parseJsonFeed } from 'xfp'
 
 ### `parseHtmlFeed(str)`
 
-Handler for HTML feeds extracts page and posts metadata from the document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts] (NOTE: this plugin is still in pre-release and unreliable - use at own discretion).
+**WIP!** Extracts feed metadata from an HTML document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts].
 
 ```js
 import { parseHtmlFeed } from 'xfp'
@@ -102,7 +107,13 @@ import { parseHtmlFeed } from 'xfp'
 
 <!-- Definitions -->
 
-[types]: ./types.d.ts
+[esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
+[jsdoc]: https://github.com/jsdoc/jsdoc
+[types-badge]: https://badgen.net/npm/types/xfp
+[types-link]: https://www.npmjs.com/package/xfp
+[size-badge]: https://packagephobia.com/badge?p=xfp
+[size-link]: https://packagephobia.com/result?p=xfp
+[rss-parser]: https://github.com/rbren/rss-parser
 [types]: ./types.ts
 [json]: https://www.jsonfeed.org/version/1/
 [rss]: https://validator.w3.org/feed/docs/rss2.html
