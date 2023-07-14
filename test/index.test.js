@@ -1,7 +1,7 @@
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 import { test } from 'vitest'
-import { parse } from '../index.js'
+import { parse } from '../lib/index.js'
 
 const root = join('./fixtures')
 
