@@ -93,7 +93,7 @@ import { parseJsonFeed } from 'xfp'
 
 ### `parseHtmlFeed(str)`
 
-**WIP!** Extracts feed metadata from an HTML document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts].
+**WIP!** Extracts feed data from an HTML document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts].
 
 ```js
 import { parseHtmlFeed } from 'xfp'
@@ -118,7 +118,7 @@ import { parseHtmlFeed } from 'xfp'
 [json]: https://www.jsonfeed.org/version/1/
 [rss]: https://validator.w3.org/feed/docs/rss2.html
 [atom]: https://validator.w3.org/feed/docs/atom.html
-[rehype-meta]: https://github.com/gorango/rehype-extract-meta
-[rehype-posts]: https://github.com/gorango/rehype-extract-posts
+[rehype-meta]: https://www.npmjs.com/package/rehype-extract-meta
+[rehype-posts]: https://www.npmjs.com/package/rehype-extract-posts
 [license]: license
 [author]: https://github.com/gorango
