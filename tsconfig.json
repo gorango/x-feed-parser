@@ -1,5 +1,5 @@
 {
-	"include": ["*.js"],
+	"include": ["lib/*.js"],
 	"compilerOptions": {
 		"target": "esnext",
 		"lib": ["esnext"],
@@ -10,6 +10,7 @@
 		"checkJs": true,
 		"skipLibCheck": true,
 		"declaration": true,
-		"emitDeclarationOnly": true
+		"emitDeclarationOnly": true,
+		"outDir": "types"
 	}
 }
