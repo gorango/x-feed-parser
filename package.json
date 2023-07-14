@@ -35,7 +35,8 @@
 	},
 	"scripts": {
 		"test": "vitest",
-		"build": "tsc"
+		"build": "tsc",
+		"lint": "eslint --fix --ext .js,.ts,.json lib"
 	},
 	"dependencies": {
 		"entities": "^4.5.0",
@@ -56,5 +57,19 @@
 		"shx": "^0.3.4",
 		"typescript": "^5.1.5",
 		"vitest": "^0.32.2"
+	},
+	"eslintConfig": {
+		"root": true,
+		"env": {
+			"browser": true,
+			"node": true
+		},
+		"extends": "@antfu",
+		"rules": {
+			"no-tabs": 0,
+			"indent": ["error", "tab", { "SwitchCase": 1 }],
+			"@typescript-eslint/indent": ["error", "tab"],
+			"jsonc/indent": ["error", "tab"]
+		}
 	}
 }
