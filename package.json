@@ -1,12 +1,12 @@
 {
-	"name": "xfp",
+	"name": "x-feed-parser",
 	"type": "module",
 	"version": "0.2.18",
 	"description": "Universal feed parser - RSS1/2, Atom, JSON, HTML",
 	"author": "Goran Spasojevic <gospaso@gmail.com> (https://gorango.me)",
 	"license": "MIT",
-	"repository": "gorango/xfp",
-	"bugs": "https://github.com/gorango/xfp/issues",
+	"repository": "gorango/x-feed-parser",
+	"bugs": "https://github.com/gorango/x-feed-parser/issues",
 	"keywords": [
 		"feed",
 		"parser",

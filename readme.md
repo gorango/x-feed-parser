@@ -10,13 +10,13 @@ This project is based on the [rbren/rss-parser][rss-parser] upgraded to [ESM][es
 ## Install
 
 ```sh
-npm install xfp
+npm install x-feed-parser
 ```
 
 ## Usage
 
 ```js
-import { parse } from 'xfp'
+import { parse } from 'x-feed-parser'
 
 let rawFeedString // XML (RSS/Atom), JSON Feed, or HTML
 const feed = parse(rawFeedString)
@@ -72,7 +72,7 @@ This library exports the [`parse`](#parse) function, which is a thin wrapper for
 Identifies the filetype (`xml`, `json`, or `html`) and assigns the appropriate parser.
 
 ```js
-import { parse } from 'xfp'
+import { parse } from 'x-feed-parser'
 ```
 
 ### `parseXmlFeed(str)`
@@ -80,7 +80,7 @@ import { parse } from 'xfp'
 Handler for [RSS][rss] (v0.9 - v2.0) and [Atom][atom] feeds.
 
 ```js
-import { parseXmlFeed } from 'xfp'
+import { parseXmlFeed } from 'x-feed-parser'
 ```
 
 ### `parseJsonFeed(str)`
@@ -88,7 +88,7 @@ import { parseXmlFeed } from 'xfp'
 Handler for [JSON feeds][json] (v1).
 
 ```js
-import { parseJsonFeed } from 'xfp'
+import { parseJsonFeed } from 'x-feed-parser'
 ```
 
 ### `parseHtmlFeed(str)`
@@ -96,7 +96,7 @@ import { parseJsonFeed } from 'xfp'
 **WIP!** Extracts feed data from an HTML document using [rehype-extract-meta][rehype-meta] and [rehype-extract-posts][rehype-posts].
 
 ```js
-import { parseHtmlFeed } from 'xfp'
+import { parseHtmlFeed } from 'x-feed-parser'
 ```
 
 ## License
@@ -109,10 +109,10 @@ import { parseHtmlFeed } from 'xfp'
 
 [esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
 [jsdoc]: https://github.com/jsdoc/jsdoc
-[types-badge]: https://badgen.net/npm/types/xfp
-[types-link]: https://www.npmjs.com/package/xfp
-[size-badge]: https://packagephobia.com/badge?p=xfp
-[size-link]: https://packagephobia.com/result?p=xfp
+[types-badge]: https://badgen.net/npm/types/x-feed-parser
+[types-link]: https://www.npmjs.com/package/x-feed-parser
+[size-badge]: https://packagephobia.com/badge?p=x-feed-parser
+[size-link]: https://packagephobia.com/result?p=x-feed-parser
 [rss-parser]: https://github.com/rbren/rss-parser
 [types]: ./types.ts
 [json]: https://www.jsonfeed.org/version/1/
