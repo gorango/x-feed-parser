@@ -17,16 +17,25 @@
 		"html"
 	],
 	"sideEffects": false,
-	"main": "index.js",
-	"types": "types/index.ts",
+	"exports": {
+		".": {
+			"types": "./index.d.ts",
+			"import": "./index.js"
+		}
+	},
+	"types": "./index.d.ts",
 	"files": [
 		"index.js",
-		"lib",
-		"types"
+		"index.d.ts",
+		"types.d.ts",
+		"lib"
 	],
+	"engines": {
+		"node": ">=16"
+	},
 	"scripts": {
 		"test": "vitest",
-		"build": "shx rm -rf types && tsc && shx cp types.ts types"
+		"build": "tsc"
 	},
 	"dependencies": {
 		"entities": "^4.5.0",

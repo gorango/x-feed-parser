@@ -10,7 +10,6 @@
 		"checkJs": true,
 		"skipLibCheck": true,
 		"declaration": true,
-		"emitDeclarationOnly": true,
-		"outDir": "types"
+		"emitDeclarationOnly": true
 	}
 }
